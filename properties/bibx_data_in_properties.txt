@@ -1,0 +1,6 @@
+# Name of the database for saving articles
+database_url=jdbc:mysql://localhost:3306/bibxdb?useSSL=false
+# Database username, define empty for interactive mode
+database_username=bibxusr
+# Database password, define empty for interactive mode
+database_password=bibxpwd

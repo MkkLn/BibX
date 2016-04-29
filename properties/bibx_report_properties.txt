@@ -1,0 +1,37 @@
+# Name of the database to be analyzed
+database_url=jdbc:mysql://localhost:3306/bibxdb?useSSL=false
+# Database username, define empty for interactive mode
+database_username=bibxusr
+# Database password, define empty for interactive mode
+database_password=bibxpwd
+# Name for output directory (for same dir define .)
+output_directory=bibx_report
+# Append date to output directory name (in format yymmdd_hhmmss)? Valid values: true/false
+output_directory_append_date=false
+# Name for report files subdirectory (for no subdir define .)
+report_files_subdirectory=report_files
+# Prefix for output file names
+output_filename_prefix=bibx_report
+# Append date to output file names (in format yymmdd_hhmmss)? Valid values: true/false
+output_filename_append_date=true
+# Command for running R
+command_r=rscript
+# Command for typesetting tex to pdf
+command_tex2pdf=pdflatex
+# Appendix visibile? valid values are: true/false/only
+appendix_visibility=true
+# Maximum number of rows to be shown in a table
+table_rows_max=40
+# Minimum visible edgesizes for various networks (for all ties define 1)
+network_edgesize_min_coauthorships=2
+network_edgesize_min_country-ties=2
+network_edgesize_min_country-ties-states=2
+network_edgesize_min_country-ties-states-zips=2
+network_edgesize_min_institutional-ties=2
+network_edgesize_min_categories=1
+network_edgesize_min_categories-weighted=1
+network_edgesize_min_areas=1
+network_edgesize_min_areas-weighted=1
+network_edgesize_min_keywords-author-relatedness=4
+network_edgesize_min_keywords-plus-relatedness=6
+network_edgesize_min_cocitations=30

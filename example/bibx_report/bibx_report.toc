@@ -1,0 +1,16 @@
+\contentsline {section}{\numberline {1}Summary statistics}{1}{section.1}
+\contentsline {section}{\numberline {2}Articles}{2}{section.2}
+\contentsline {section}{\numberline {3}Authors}{5}{section.3}
+\contentsline {section}{\numberline {4}Addresses}{10}{section.4}
+\contentsline {section}{\numberline {5}Sources}{19}{section.5}
+\contentsline {section}{\numberline {6}Keywords}{28}{section.6}
+\contentsline {section}{\numberline {7}Cited references}{32}{section.7}
+\vspace {\normalbaselineskip } \vspace {\normalbaselineskip } \bfseries Appendices\par 
+\contentsline {section}{Appendix: All authors}{37}{section*.1}
+\contentsline {section}{Appendix: All parsed institutions}{42}{section*.2}
+\contentsline {section}{Appendix: All parsed countries}{47}{section*.3}
+\contentsline {section}{Appendix: All sources}{49}{section*.4}
+\contentsline {section}{Appendix: All source WoS categories}{53}{section*.5}
+\contentsline {section}{Appendix: All source research areas}{54}{section*.6}
+\contentsline {section}{Appendix: All author keywords}{55}{section*.7}
+\contentsline {section}{Appendix: All keywords plus}{63}{section*.8}

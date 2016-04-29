@@ -1,0 +1,48 @@
+from,to,width
+Australia,Scotland,2
+Belgium,England,4
+Belgium,Germany,2
+Belgium,NC USA,2
+Belgium,Netherlands,4
+Belgium,Norway,2
+CA USA,MA USA,2
+Canada,England,2
+Canada,France,2
+Canada,Spain,2
+Denmark,England,2
+Denmark,Finland,3
+Denmark,France,2
+Denmark,NY USA,2
+Denmark,Netherlands,2
+Denmark,Russia,2
+Denmark,Sweden,2
+England,Germany,2
+England,Italy,3
+England,NC USA,2
+England,Netherlands,4
+England,Norway,2
+England,PA USA,2
+England,Peoples R China,2
+England,Spain,3
+Finland,France,2
+Finland,Italy,2
+Finland,NY USA,2
+Finland,Russia,2
+Finland,Sweden,3
+France,IN USA,2
+France,Russia,3
+France,Sweden,2
+France,Switzerland,2
+Germany,Netherlands,2
+Germany,Russia,2
+Germany,Switzerland,2
+IA USA,New Zealand,2
+IN USA,Sweden,2
+Italy,Netherlands,2
+Italy,Spain,2
+MI USA,WI USA,2
+NY USA,Peoples R China,2
+NY USA,Russia,2
+NY USA,Sweden,2
+Peoples R China,TX USA,3
+Russia,Sweden,2

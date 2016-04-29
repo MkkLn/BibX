@@ -1,0 +1,3649 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.16 (MiKTeX 2.9 64-bit) (preloaded format=pdflatex 2016.2.10)  29 APR 2016 14:49
+entering extended mode
+**bibx_data_out/bibx_data_out_data.tex
+(bibx_data_out/bibx_data_out_data.tex
+LaTeX2e <2015/01/01> patch level 2
+Babel <3.9m> and hyphenation patterns for 69 languages loaded.
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\article.cls"
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\size10.clo"
+File: size10.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@section=\count80
+\c@subsection=\count81
+\c@subsubsection=\count82
+\c@paragraph=\count83
+\c@subparagraph=\count84
+\c@figure=\count85
+\c@table=\count86
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\ltxmisc\parskip.sty"
+Package: parskip 2001/04/09 non-zero parskip adjustments
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2014/10/28 v1.1a Standard LaTeX Color (DPC)
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\color.cfg"
+File: color.cfg 2007/01/18 v1.5 color configuration of teTeX/TeXLive
+)
+Package color Info: Driver file: pdftex.def on input line 142.
+("C:\Program Files\MiKTeX 2.9\tex\latex\pdftex-def\pdftex.def"
+File: pdftex.def 2011/05/27 v0.06d Graphics/color for pdfTeX
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2010/04/08 v1.3 Providing info/warning/error messages (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2011/11/09 v1.22 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count87
+)) ("C:\Program Files\MiKTeX 2.9\tex\latex\soul\soul.sty"
+Package: soul 2003/11/17 v2.4 letterspacing/underlining (mf)
+\SOUL@word=\toks14
+\SOUL@lasttoken=\toks15
+\SOUL@cmds=\toks16
+\SOUL@buffer=\toks17
+\SOUL@token=\toks18
+\SOUL@spaceskip=\skip43
+\SOUL@ttwidth=\dimen103
+\SOUL@uldp=\dimen104
+\SOUL@ulht=\dimen105
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\tabto\tabto.sty"
+Package: tabto 2013/03/25  v 1.3  Another tabbing mechanism
+\CurrentLineWidth=\dimen106
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2012/11/06 v6.83m Hypertext links for LaTeX
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2012/04/25 v1.12 Bundle oberdiek, subset hyperref (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2012/04/25 v1.12 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2012/04/25 v1.12 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package: ifluatex 2010/03/01 v1.3 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2010/03/01 v1.5 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2007/09/27 v1.1 Expandable calculations with integers (HO)
+Package: ifpdf 2011/01/30 v2.3 Provides the ifpdf switch (HO)
+Package ifpdf Info: pdfTeX in PDF mode is detected.
+Package: etexcmds 2011/02/16 v1.5 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2012/04/25 v1.16 Key value parser (HO)
+Package: kvdefinekeys 2011/04/07 v1.3 Define keys (HO)
+Package: pdftexcmds 2011/11/29 v0.20 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2011/11/25 v1.13 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2012/04/08 v1.3 Expandable calculations on big integers (HO
+)
+Package: bitset 2011/01/30 v1.1 Handle bit-vector datatype (HO)
+Package: uniquecounter 2011/01/30 v1.2 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2010/09/02 v1.4 Let assignment for LaTeX macros (HO)
+Package: hopatch 2011/06/24 v1.1 Wrapper for package hooks (HO)
+Package: xcolor-patch 2011/01/30 xcolor patch
+Package: atveryend 2011/06/30 v1.8 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2011/10/05 v1.16 At begin shipout hook (HO)
+Package: refcount 2011/10/16 v3.4 Data extraction from label references (HO)
+Package: hycolor 2011/01/30 v1.7 Color options for hyperref/bookmark (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks19
+) ("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2011/03/04 v1.3 Hooks for auxiliary files (HO)
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2011/06/30 v3.11 Key value format for package options (HO)
+)
+\@linkdim=\dimen107
+\Hy@linkcounter=\count88
+\Hy@pagecounter=\count89
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2012/11/06 v6.83m Hyperref: PDFDocEncoding definition (HO)
+)
+\Hy@SavedSpaceFactor=\count90
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `colorlinks' set `true' on input line 4319.
+Package hyperref Info: Hyper figures OFF on input line 4443.
+Package hyperref Info: Link nesting OFF on input line 4448.
+Package hyperref Info: Hyper index ON on input line 4451.
+Package hyperref Info: Plain pages OFF on input line 4458.
+Package hyperref Info: Backreferencing OFF on input line 4463.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4688.
+\c@Hy@tempcnt=\count91
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip10
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5041.
+\XeTeXLinkMargin=\dimen108
+\Fld@menulength=\count92
+\Field@Width=\dimen109
+\Fld@charsize=\dimen110
+Package hyperref Info: Hyper figures OFF on input line 6295.
+Package hyperref Info: Link nesting OFF on input line 6300.
+Package hyperref Info: Hyper index ON on input line 6303.
+Package hyperref Info: backreferencing OFF on input line 6310.
+Package hyperref Info: Link coloring ON on input line 6313.
+Package hyperref Info: Link coloring with OCG OFF on input line 6320.
+Package hyperref Info: PDF/A mode OFF on input line 6325.
+LaTeX Info: Redefining \ref on input line 6365.
+LaTeX Info: Redefining \pageref on input line 6369.
+\Hy@abspage=\count93
+\c@Item=\count94
+\c@Hfootnote=\count95
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2012/11/06 v6.83m Hyperref driver for pdfTeX
+\Fld@listcount=\count96
+\c@bookmark@seq@number=\count97
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2011/04/15 v1.7 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip44
+)
+No file bibx_data_out_data.aux.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count98
+\scratchdimen=\dimen111
+\scratchbox=\box26
+\nofMPsegments=\count99
+\nofMParguments=\count100
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count101
+\MPscratchDim=\dimen112
+\MPnumerator=\count102
+\makeMPintoPDFobject=\count103
+\everyMPtoPDFconversion=\toks21
+)
+\AtBeginShipoutBox=\box27
+Package hyperref Info: Link coloring ON on input line 7.
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2012/10/27 v2.43 Cross-referencing by name of section
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2010/12/03 v1.4 Cleanup title references (HO)
+)
+\c@section@level=\count104
+)
+LaTeX Info: Redefining \ref on input line 7.
+LaTeX Info: Redefining \pageref on input line 7.
+LaTeX Info: Redefining \nameref on input line 7.
+\@outlinefile=\write3
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 10.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 10.
+[1
+
+{C:/Users/Mikko/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] [2
+
+]
+Overfull \hbox (2.44264pt too wide) in paragraph at lines 41--41
+| \OT1/cmr/m/n/10 COM-PEN-SA-TION STRAT-EGY, COM-PET-I-TIVE AD-VAN-TAGE, DE-CI-
+SIONS, DI- 
+ []
+
+
+Overfull \hbox (11.33157pt too wide) in paragraph at lines 41--41
+\OT1/cmr/m/n/10 VER-SI-FI-CA-TION, EMPIRICAL-ANALYSIS, FI-NAN-CIAL RE-SEARCH, F
+IRM PER- 
+ []
+
+[3
+
+] [4
+
+]
+Overfull \hbox (4.59439pt too wide) in paragraph at lines 64--64
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COM-BI-NA-TIVE CA-PA-BIL-I
+-TIES, KNOWL-EDGE EN- 
+ []
+
+[5
+
+]
+Overfull \hbox (45.98563pt too wide) in paragraph at lines 77--77
+| \OT1/cmr/m/n/10 DUOPOLY, EN-DOGE-NOUS SPILLOVERS, POL-ICY, RESEARCH-AND-DEVEL
+OPMENT, 
+ []
+
+[6
+
+]
+Overfull \hbox (16.13396pt too wide) in paragraph at lines 85--85
+| \OT1/cmr/m/n/10 2001, SO JOUR-NAL OF ECONOMICS-ZEITSCHRIFT FUR NA-TION-ALOKON
+OMIE  
+ []
+
+[7
+
+]
+Overfull \hbox (0.98543pt too wide) in paragraph at lines 101--101
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, EMPIRICAL-ANALY
+SIS, FIRM 
+ []
+
+[8
+
+] [9
+
+] [10
+
+]
+Overfull \hbox (2.23541pt too wide) in paragraph at lines 136--136
+| \OT1/cmr/m/n/10 COR-PO-RATE CUL-TURE, IN-TER-AC-TION, R&D, RE-SOURCES, TECH-N
+OL-OGY 
+ []
+
+
+Overfull \hbox (5.77817pt too wide) in paragraph at lines 137--137
+\OT1/cmr/m/n/10 AGE-MENT, OR-GA-NI-ZA-TIONS, PER-SPEC-TIVE, PRO-DUC-TIV-ITY, RE
+SEARCH- 
+ []
+
+[11
+
+] [12
+
+]
+Overfull \hbox (6.6104pt too wide) in paragraph at lines 161--161
+| \OT1/cmr/m/n/10 AN-TITRUST, COM-PE-TI-TION, CO-OP-ER-A-TIVE RE-SEARCH, IN-NO-
+VA-TION, RE- 
+ []
+
+[13
+
+]
+Overfull \hbox (4.59764pt too wide) in paragraph at lines 173--173
+| \OT1/cmr/m/n/10 CATCH, CON-VER-GENCE, COUN-TRIES, IN-DUS-TRIES, IN-NO-VA-TION
+, MODEL, 
+ []
+
+
+Overfull \hbox (9.66492pt too wide) in paragraph at lines 173--173
+\OT1/cmr/m/n/10 PAT-TERNS, PRO-DUC-TIV-ITY GROWTH, SPILLOVERS, TECH-NOL-OGY FLO
+WS  
+ []
+
+[14
+
+] [15
+
+]
+Overfull \hbox (23.97049pt too wide) in paragraph at lines 197--197
+\OT1/cmr/m/n/10 KNOWL-EDGE, MAR-KET ORI-EN-TA-TION, PER-FOR-MANCE, STRATE-GIC C
+HOICE, 
+ []
+
+[16
+
+] [17
+
+]
+Overfull \hbox (46.54106pt too wide) in paragraph at lines 221--221
+| \OT1/cmr/m/n/10 HUMAN-RESOURCE MAN-AGE-MENT, IM-PACT, INTERNATIONAL-JOINT-VEN
+TURES, 
+ []
+
+
+Overfull \hbox (63.06886pt too wide) in paragraph at lines 221--221
+\OT1/cmr/m/n/10 MAN-U-FAC-TUR-ING PER-FOR-MANCE, MO-TI-VA-TION, MULTINATIONAL-C
+ORPORATIONS, 
+ []
+
+
+Overfull \hbox (1.95766pt too wide) in paragraph at lines 221--221
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL PER-FOR-MANCE, PER-SPEC-TIVE, PRO-DUC-TIV-IT
+Y, SYS- 
+ []
+
+[18
+
+]
+Overfull \hbox (12.09439pt too wide) in paragraph at lines 233--233
+| \OT1/cmr/m/n/10 ANOMA-LIES, ASIAN FI-NAN-CIAL CRI-SIS, COR-PO-RATE GOV-ER-NAN
+CE, COUN- 
+ []
+
+[19
+
+]
+Overfull \hbox (3.0004pt too wide) in paragraph at lines 245--245
+\OT1/cmr/m/n/10 VA-TION, MAN-AGE-MENT, OR-GA-NI-ZA-TIONS, PER-FOR-MANCE, PRO-DU
+C-TIV- 
+ []
+
+[20
+
+]
+Overfull \hbox (7.4438pt too wide) in paragraph at lines 257--257
+| \OT1/cmr/m/n/10 CO-OP-ER-A-TION, EVO-LU-TION, FIRM, IN-NO-VA-TION, JOINT VEN-
+TURES, MAN- 
+ []
+
+[21
+
+]
+Overfull \hbox (10.08267pt too wide) in paragraph at lines 269--269
+| \OT1/cmr/m/n/10 AD-VAN-TAGE, DOM-I-NANT DE-SIGNS, EN-VI-RON-MENT, EX-PLOITA-T
+ION, FIRM, 
+ []
+
+[22
+
+]
+Overfull \hbox (0.49823pt too wide) in paragraph at lines 281--281
+| \OT1/cmr/m/n/10 CON-TEX-TUAL FAC-TORS, COR-PO-RATE EN-TREPRENEUR-SHIP, FI-NAN
+-CIAL 
+ []
+
+
+Overfull \hbox (18.83374pt too wide) in paragraph at lines 281--281
+\OT1/cmr/m/n/10 PER-FOR-MANCE, IM-PACT, IN-DUS-TRY, IN-NO-VA-TION, INTERNATIONA
+L-JOINT- 
+ []
+
+[23
+
+]
+Overfull \hbox (22.99715pt too wide) in paragraph at lines 292--292
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, KNOWL-EDGE CRE-ATION, OR-G
+A-NI-ZA-TIONAL MECH- 
+ []
+
+[24
+
+]
+Overfull \hbox (33.90219pt too wide) in paragraph at lines 305--305
+| \OT1/cmr/m/n/10 DIF-FU-SION, ECONOMIC-GEOGRAPHY, GE-O-GRAPHIC LO-CAL-IZA-TION
+, GROWTH, 
+ []
+
+[25
+
+]
+Overfull \hbox (7.44162pt too wide) in paragraph at lines 316--316
+\OT1/cmr/m/n/10 NI-ZA-TIONAL IN-FOR-MA-TION SYS-TEMS, KNOWL-EDGE MAN-AGE-MENT, 
+PRO- 
+ []
+
+
+Overfull \hbox (27.44496pt too wide) in paragraph at lines 317--317
+| \OT1/cmr/m/n/10 CLUSTER-ANALYSIS, COL-LAB-O-RA-TION, CO-OP-ER-A-TION, FIRM, I
+NFORMATION- 
+ []
+
+
+Overfull \hbox (3.13708pt too wide) in paragraph at lines 317--317
+\OT1/cmr/m/n/10 TECHNOLOGY, IN-NO-VA-TION, OR-GA-NI-ZA-TIONAL MEM-ORY, PROD-UCT
+ DE- 
+ []
+
+[26
+
+] [27
+
+]
+Overfull \hbox (25.77716pt too wide) in paragraph at lines 341--341
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, AP-PRO-PRI-ABIL-ITY, IN-NO
+-VA-TION, R&D, SPILLOVERS  
+ []
+
+
+Overfull \hbox (5.91492pt too wide) in paragraph at lines 342--342
+| \OT1/cmr/m/n/10 CO-OP-ER-A-TION, DUOPOLY, IN-NO-VA-TION, ME HALFWAY, RE-SEARC
+H JOINT 
+ []
+
+[28
+
+]
+Overfull \hbox (16.81772pt too wide) in paragraph at lines 354--354
+| \OT1/cmr/m/n/10 BEN-E-FIT, DO-MES-TIC FIRMS, FOR-EIGN DIRECT-INVESTMENT, GE-O
+-GRAPHIC 
+ []
+
+[29
+
+] [30
+
+] [31
+
+]
+Overfull \hbox (5.56989pt too wide) in paragraph at lines 390--390
+\OT1/cmr/m/n/10 META-ANAL-Y-SIS, NET-WORKS, OR-GA-NI-ZA-TIONS, PER-FOR-MANCE, S
+TRATE- 
+ []
+
+[32
+
+] [33
+
+]
+Overfull \hbox (8.3476pt too wide) in paragraph at lines 414--414
+\OT1/cmr/m/n/10 IN-DUS-TRIES, MANUFACTURING-INDUSTRIES, MARKET-STRUCTURE, PRO- 
+
+ []
+
+[34
+
+]
+Overfull \hbox (4.24713pt too wide) in paragraph at lines 426--426
+| \OT1/cmr/m/n/10 CEN-TRIPETAL FORCES, COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET
+-I-TIVE AD- 
+ []
+
+[35
+
+]
+Overfull \hbox (50.08275pt too wide) in paragraph at lines 438--438
+| \OT1/cmr/m/n/10 CHINA, DEVELOPING-COUNTRIES, DIS-TOR-TIONS, FOR-EIGN DIRECT-I
+NVESTMENT, 
+ []
+
+
+Overfull \hbox (4.38599pt too wide) in paragraph at lines 438--438
+\OT1/cmr/m/n/10 RUN GROWTH, MO-NOP-O-LIS-TIC COM-PE-TI-TION, PRO-DUC-TIV-ITY GR
+OWTH  
+ []
+
+[36
+
+]
+Overfull \hbox (41.05495pt too wide) in paragraph at lines 450--450
+| \OT1/cmr/m/n/10 DE-VEL-OP-MENT COM-PE-TI-TION, IN-DUS-TRY, IN-NO-VA-TION, MAR
+KET-STRUCTURE, 
+ []
+
+[37
+
+]
+Overfull \hbox (7.02602pt too wide) in paragraph at lines 462--462
+| \OT1/cmr/m/n/10 AG-GRE-GATE PRO-DUC-TION FUNC-TION, DIF-FU-SION, ECONOMIC-GRO
+WTH, 
+ []
+
+
+Overfull \hbox (5.70767pt too wide) in paragraph at lines 462--462
+\OT1/cmr/m/n/10 EF-FI-CIENCY, IN-EF-FI-CIENCY, OUT-PUT GROWTH, PANEL, RESEARCH-
+AND- 
+ []
+
+[38
+
+] [39
+
+] [40
+
+] [41
+
+]
+Overfull \hbox (0.84436pt too wide) in paragraph at lines 509--509
+| \OT1/cmr/m/n/10 BOUND-ARY SPAN-NERS, CHANGE AGENTS, GATE-KEEP-ERS, MID-DLE MA
+N- 
+ []
+
+
+Overfull \hbox (6.05492pt too wide) in paragraph at lines 510--510
+| \OT1/cmr/m/n/10 BOUND-ARY, COM-MU-NI-CA-TION, DY-NAMIC CA-PA-BIL-I-TIES, EN-V
+I-RON-MENT, 
+ []
+
+[42
+
+]
+Overfull \hbox (1.6799pt too wide) in paragraph at lines 522--522
+| \OT1/cmr/m/n/10 DY-NAMIC CA-PA-BIL-I-TIES, FIRM, GENERALIZED-METHOD, IN-FOR-M
+A-TION, 
+ []
+
+
+Overfull \hbox (15.08147pt too wide) in paragraph at lines 522--522
+\OT1/cmr/m/n/10 IN-NO-VA-TION, ORI-EN-TA-TION, PANEL DATA, PATENT CI-TA-TIONS, 
+RESEARCH- 
+ []
+
+[43
+
+]
+Overfull \hbox (9.31548pt too wide) in paragraph at lines 535--535
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IS IM-PLE-MEN-TA-TION, IS 
+OR-GA-NI-ZA-TIONAL RISK, 
+ []
+
+[44
+
+]
+Overfull \hbox (27.8616pt too wide) in paragraph at lines 548--548
+\OT1/cmr/m/n/10 SIDIARIES, HIGH-TECHNOLOGY, INTERNATIONAL-JOINT-VENTURES, KNOWL
+- 
+ []
+
+
+Overfull \hbox (65.01225pt too wide) in paragraph at lines 548--548
+\OT1/cmr/m/n/10 EDGE TRANS-FER, OR-GA-NI-ZA-TIONAL KNOWL-EDGE, RESEARCH-AND-DEV
+ELOPMENT, 
+ []
+
+[45
+
+]
+Overfull \hbox (2.72047pt too wide) in paragraph at lines 560--560
+| \OT1/cmr/m/n/10 DY-NAMIC CA-PA-BIL-I-TIES, EN-VI-RON-MENTS, FIRM PER-FOR-MANC
+E, IN-DUS- 
+ []
+
+[46
+
+] [47
+
+]
+Overfull \hbox (5.56767pt too wide) in paragraph at lines 589--589
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, CONCEPTUAL-FRAMEWORK, FIRM PER-FO
+R- 
+ []
+
+
+Overfull \hbox (11.26334pt too wide) in paragraph at lines 589--589
+\OT1/cmr/m/n/10 VEL-OP-MENT, PSY-CHO-LOG-I-CAL SAFETY, RESEARCH-AND-DEVELOPMENT
+, 
+ []
+
+[48
+
+]
+Overfull \hbox (1.88493pt too wide) in paragraph at lines 600--600
+| \OT1/cmr/m/n/10 EN-TER-PRISE RE-SOURCE PLAN-NING (ERP), KNOWL-EDGE TRANS-FER,
+ OR- 
+ []
+
+
+Overfull \hbox (44.80385pt too wide) in paragraph at lines 601--601
+| \OT1/cmr/m/n/10 AS-SIM-I-LA-TION, CRIT-I-CAL SUC-CESS FAC-TORS, IM-PLE-MEN-TA
+-TION, INFORMATION- 
+ []
+
+
+Overfull \hbox (3.76324pt too wide) in paragraph at lines 601--601
+\OT1/cmr/m/n/10 TECHNOLOGY, IN-NO-VA-TION, KNOWL-EDGE TRANS-FER, OR-GA-NI-ZA-TI
+ONS, 
+ []
+
+[49
+
+] [50
+
+]
+Overfull \hbox (2.85823pt too wide) in paragraph at lines 624--624
+| \OT1/cmr/m/n/10 CA-PA-BIL-ITY TRANS-FER, CROSS-BORDER AC-QUI-SI-TIONS, CUL-TU
+RAL DIF- 
+ []
+
+
+Overfull \hbox (6.26212pt too wide) in paragraph at lines 625--625
+\OT1/cmr/m/n/10 CORPORATIONS, NA-TIONAL CUL-TURE, POSTAC-QUI-SI-TION IN-TE-GRA-
+TION, 
+ []
+
+[51
+
+]
+Overfull \hbox (0.15102pt too wide) in paragraph at lines 636--636
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-NO-VA-TION, TECH-NO-LOG
+-I-CAL AC-QUI-SI-TIONS  
+ []
+
+
+Overfull \hbox (19.87323pt too wide) in paragraph at lines 637--637
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, FIRM, IN-NO-VA-TION, JOINT VEN-TU
+RES, KNOWL- 
+ []
+
+
+Overfull \hbox (0.29208pt too wide) in paragraph at lines 637--637
+\OT1/cmr/m/n/10 EDGE, PART-NER-SHIPS, PER-FOR-MANCE, PER-SPEC-TIVE, RESEARCH-AN
+D- 
+ []
+
+[52
+
+]
+Overfull \hbox (1.53767pt too wide) in paragraph at lines 648--648
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COG-NI-TIVE DIS-TANCE, EX-
+PLO-RATION AND EX- 
+ []
+
+
+Overfull \hbox (4.80489pt too wide) in paragraph at lines 649--649
+\OT1/cmr/m/n/10 LO-CAL SEARCH, MARKET-STRUCTURE, RESEARCH-AND-DEVELOPMENT, 
+ []
+
+[53
+
+] [54
+
+] [55
+
+] [56
+
+]
+Overfull \hbox (17.99716pt too wide) in paragraph at lines 696--696
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, HU-MAN CAP-I-TAL, MULTI-NA
+-TIONAL EN-TER-PRISES, 
+ []
+
+
+Overfull \hbox (33.34555pt too wide) in paragraph at lines 697--697
+| \OT1/cmr/m/n/10 BEN-E-FIT, DO-MES-TIC FIRMS, ECONO-MET-RICS, FOR-EIGN DIRECT-
+INVESTMENT, 
+ []
+
+
+Overfull \hbox (34.4588pt too wide) in paragraph at lines 697--697
+\OT1/cmr/m/n/10 GROWTH, MODEL, PANEL-DATA, PRO-DUC-TIV-ITY, SPEC-I-FI-CA-TION, 
+SPILLOVERS  
+ []
+
+[57
+
+] [58
+
+]
+Overfull \hbox (2.09654pt too wide) in paragraph at lines 721--721
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, COM-PE-TENCE, COM-PET-I-TIVE AD-VAN-TAGE, F
+IRM, JOINT- 
+ []
+
+[59
+
+] [60
+
+]
+Overfull \hbox (11.5388pt too wide) in paragraph at lines 744--744
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, FOR-EIGN DI-RECT IN-VEST-M
+ENT, SO-PHIS-TI-CATED 
+ []
+
+[61
+
+]
+Overfull \hbox (5.77716pt too wide) in paragraph at lines 756--756
+| \OT1/cmr/m/n/10 GATE-KEEPER, HIGH-TECHNOLOGY CLUS-TERS, KNOWL-EDGE, PLAT-FORM
+ 
+ []
+
+
+Overfull \hbox (7.44374pt too wide) in paragraph at lines 757--757
+| \OT1/cmr/m/n/10 CLUS-TER, FIRM, IN-DUS-TRIAL DIS-TRICTS, IN-NO-VA-TION, KNOW-
+HOW, NET- 
+ []
+
+[62
+
+] [63
+
+] [64
+
+]
+Overfull \hbox (5.91603pt too wide) in paragraph at lines 794--794
+| \OT1/cmr/m/n/10 AC-QUI-SI-TIONS, COM-PE-TENCE, COR-PO-RATE EN-TREPRENEUR-SHIP
+, ECON- 
+ []
+
+
+Overfull \hbox (4.38953pt too wide) in paragraph at lines 795--795
+| \OT1/cmr/m/n/10 Com-pa-nies have vig-or-ously pur-sued op-por-tu-ni-ties for 
+prof-itabil-ity and growth through 
+ []
+
+[65
+
+]
+Overfull \hbox (32.37552pt too wide) in paragraph at lines 806--806
+\OT1/cmr/m/n/10 PLO-RATION, FIRM, IN-DUS-TRY, KNOWL-EDGE, RESEARCH-AND-DEVELOPM
+ENT, 
+ []
+
+[66
+
+]
+Overfull \hbox (2.2343pt too wide) in paragraph at lines 817--817
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL IM-PRO-VI-SA-TION, OR-GA-NI-ZA-TIONAL LEARN-
+ING, SPIN- 
+ []
+
+
+Overfull \hbox (2.02599pt too wide) in paragraph at lines 818--818
+\OT1/cmr/m/n/10 DIRECT-INVESTMENT, LON-GI-TU-DI-NAL ANAL-Y-SIS, OR-GA-NI-ZA-TIO
+NAL IM- 
+ []
+
+[67
+
+]
+Overfull \hbox (1.12321pt too wide) in paragraph at lines 829--829
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COM-MU-NITY, IN-NO-VA-TION
+, MAN-AGE-RIAL TIES  
+ []
+
+
+Overfull \hbox (4.52608pt too wide) in paragraph at lines 830--830
+| \OT1/cmr/m/n/10 COM-PE-TI-TION, CON-SE-QUENCES, EMERG-ING ECONOMIES, FIRM PER
+-FOR- 
+ []
+
+
+Overfull \hbox (3.34656pt too wide) in paragraph at lines 830--830
+\OT1/cmr/m/n/10 MANCE, NET-WORKS, OR-GA-NI-ZA-TIONS, PER-SPEC-TIVE, PROD-UCT DE
+-VEL- 
+ []
+
+[68
+
+]
+Overfull \hbox (0.63826pt too wide) in paragraph at lines 842--842
+| \OT1/cmr/m/n/10 AL-LIANCES, CA-PA-BIL-I-TIES, CHAIN, CO-OR-DI-NA-TION, CORE N
+E-CES-SI-TIES, 
+ []
+
+[69
+
+] [70
+
+]
+Overfull \hbox (10.47266pt too wide) in paragraph at lines 867--867
+| \OT1/cmr/m/n/10 This pa-per an-a-lyzes two el-e-ments nec-es-sary for build-i
+ng an ef-fi-cient re-gional technology- 
+ []
+
+[71
+
+] [72
+
+] [73
+
+]
+Overfull \hbox (0.56773pt too wide) in paragraph at lines 902--902
+| \OT1/cmr/m/n/10 BIOTECH-NOL-OGY START-UPS, COM-PLE-MEN-TARY AS-SETS, IN-CUM-B
+ENTS 
+ []
+
+
+Overfull \hbox (27.30377pt too wide) in paragraph at lines 902--902
+\OT1/cmr/m/n/10 AD-VAN-TAGE, IN-NO-VA-TION STRATE-GIES, IN-TER-FIRM CO-OP-ER-A-
+TION, KNOWL- 
+ []
+
+
+Overfull \hbox (27.37434pt too wide) in paragraph at lines 902--902
+\OT1/cmr/m/n/10 EDGE, PHARMACEUTICAL-INDUSTRY, PROD-UCT DE-VEL-OP-MENT, RESEARC
+H- 
+ []
+
+[74
+
+]
+Overfull \hbox (0.7749pt too wide) in paragraph at lines 913--913
+| \OT1/cmr/m/n/10 BUSI-NESS PER-FOR-MANCE, CFA, IS IN-TE-GRA-TION, OR-GA-NI-ZA-
+TIONAL []AB[]- 
+ []
+
+
+Overfull \hbox (8.27707pt too wide) in paragraph at lines 914--914
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, CORPORATE-STRATEGY, ERP, FRAME-WO
+RK, 
+ []
+
+[75
+
+] [76
+
+] [77
+
+]
+Overfull \hbox (1.55608pt too wide) in paragraph at lines 945--945
+| []\OT1/cmr/m/n/10 Ab[]-[]sorptive []ca[]-[]pacity, knowl-edge cir-cu-la-tion 
+and coal clean-ing in-no-va-tion: The Nether- 
+ []
+
+[78
+
+]
+Overfull \hbox (72.30391pt too wide) in paragraph at lines 963--963
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE CA-PA-BIL-I-TIES, EX-TER-NAL NET-WORKS, IN-NO-
+VA-TION, INTERNATIONAL- 
+ []
+
+
+Overfull \hbox (5.70879pt too wide) in paragraph at lines 963--963
+\OT1/cmr/m/n/10 JOINT-VENTURES, MAN-AGE-MENT, PER-FOR-MANCE, SOCIAL-STRUCTURE, 
+
+ []
+
+[79
+
+]
+Overfull \hbox (4.52705pt too wide) in paragraph at lines 975--975
+\OT1/cmr/m/n/10 IN-NO-VA-TION, LEVEL DATA, PER-FOR-MANCE, PRO-DUC-TIV-ITY, RESE
+ARCH- 
+ []
+
+[80
+
+]
+Overfull \hbox (14.665pt too wide) in paragraph at lines 986--986
+| \OT1/cmr/m/n/10 EN-VI-RON-MEN-TAL COM-PET-I-TIVE-NESS, HOS-PI-TAL PER-FOR-MAN
+CE, KNOWL- 
+ []
+
+[81
+
+]
+Overfull \hbox (0.28873pt too wide) in paragraph at lines 998--998
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COM-PET-I-TIVE AD-VAN-TAGE
+, IN-NO-VA-TION PER- 
+ []
+
+
+Overfull \hbox (9.1116pt too wide) in paragraph at lines 999--999
+| \OT1/cmr/m/n/10 AN-TECEDENTS, DE-MOG-RA-PHY, EX-TEN-SION, FIRM, GUANXI, MODEL
+, PER- 
+ []
+
+[82
+
+]
+Overfull \hbox (28.13937pt too wide) in paragraph at lines 1011--1011
+\OT1/cmr/m/n/10 FOR-MANCE, PHARMACEUTICAL-INDUSTRY, RESEARCH-AND-DEVELOPMENT, 
+ []
+
+[83
+
+]
+Overfull \hbox (11.95773pt too wide) in paragraph at lines 1023--1023
+| \OT1/cmr/m/n/10 BANK-ING IN-DUS-TRY, DE-TER-MI-NANTS, E-BUSINESS, EMPIRICAL-A
+NALYSIS, 
+ []
+
+
+Overfull \hbox (12.37437pt too wide) in paragraph at lines 1023--1023
+\OT1/cmr/m/n/10 INFORMATION-TECHNOLOGY, IN-NO-VA-TION, IN-TRAFIRM DIF-FU-SION, 
+MAN- 
+ []
+
+[84
+
+]
+Overfull \hbox (6.0549pt too wide) in paragraph at lines 1035--1035
+| \OT1/cmr/m/n/10 ACA-DEMIC EN-TREPRENEURS, BUSI-NESS, COM-PA-NIES, FAC-ULTY, I
+M-PACT, 
+ []
+
+[85
+
+]
+Overfull \hbox (9.80267pt too wide) in paragraph at lines 1046--1046
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-NO-VA-TION, PHAR-MA-CEU
+-TI-CAL AND BIOTECH- 
+ []
+
+
+Overfull \hbox (26.19264pt too wide) in paragraph at lines 1047--1047
+\OT1/cmr/m/n/10 INDUSTRIAL-INNOVATION, PATENT CI-TA-TIONS, PUB-LIC SCI-ENCE, RE
+SEARCH- 
+ []
+
+[86
+
+]
+Overfull \hbox (21.67885pt too wide) in paragraph at lines 1058--1058
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, HIGH-TECHNOLOGY SEC-TORS, 
+LOW-TECHNOLOGY 
+ []
+
+
+Overfull \hbox (2.09653pt too wide) in paragraph at lines 1059--1059
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, FIRM, IN-NO-VA-
+TION, KNOWL- 
+ []
+
+
+Overfull \hbox (21.81995pt too wide) in paragraph at lines 1059--1059
+\OT1/cmr/m/n/10 EDGE, MODEL, PER-FOR-MANCE, PROD-UCT, RESEARCH-AND-DEVELOPMENT,
+ 
+ []
+
+[87
+
+]
+Overfull \hbox (35.49828pt too wide) in paragraph at lines 1070--1070
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BOARDS, CA-PA-BIL-ITY, COR
+-PO-RATE EN-TREPRENEUR- 
+ []
+
+[88
+
+] [89
+
+]
+Overfull \hbox (3.69267pt too wide) in paragraph at lines 1094--1094
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, AM-BIDEX-TER-ITY, DY-NAMIC
+ CA-PA-BIL-I-TIES, EX- 
+ []
+
+
+Overfull \hbox (2.58046pt too wide) in paragraph at lines 1095--1095
+| \OT1/cmr/m/n/10 2 FACES, COM-PLE-MEN-TARY AS-SETS, DY-NAMIC CA-PA-BIL-I-TIES,
+ FIRM PER- 
+ []
+
+
+Overfull \hbox (13.55379pt too wide) in paragraph at lines 1095--1095
+\OT1/cmr/m/n/10 TER-ITY, PROD-UCT DE-VEL-OP-MENT, PROJECT PER-FOR-MANCE, RESEAR
+CH- 
+ []
+
+[90
+
+]
+Overfull \hbox (8.96826pt too wide) in paragraph at lines 1101--1101
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EN-VI-RON-MEN-TAL TUR-BU-L
+ENCE, AND THE COM- 
+ []
+
+
+Overfull \hbox (4.03876pt too wide) in paragraph at lines 1107--1107
+| \OT1/cmr/m/n/10 COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, 
+DY-NAMIC CA- 
+ []
+
+[91
+
+] [92
+
+] [93
+
+] [94
+
+]
+Overfull \hbox (9.38716pt too wide) in paragraph at lines 1155--1155
+| \OT1/cmr/m/n/10 BA-SIC RE-SEARCH, BIOTECH-NOL-OGY, COM-BI-NA-TIVE CA-PA-BIL-I
+-TIES, DRUG 
+ []
+
+
+Overfull \hbox (3.62428pt too wide) in paragraph at lines 1155--1155
+\OT1/cmr/m/n/10 DIS-COV-ERY, IN-DUS-TRY, IN-NO-VA-TION, KNOWL-EDGE, PATENT CI-T
+A-TIONS, 
+ []
+
+[95
+
+]
+Overfull \hbox (4.03876pt too wide) in paragraph at lines 1167--1167
+| \OT1/cmr/m/n/10 COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, 
+DY-NAMIC CA- 
+ []
+
+[96
+
+]
+Overfull \hbox (6.05371pt too wide) in paragraph at lines 1178--1178
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CROSS-CULTURAL STUDY, IN-N
+O-VA-TION, STRUC- 
+ []
+
+
+Overfull \hbox (48.55388pt too wide) in paragraph at lines 1179--1179
+| \OT1/cmr/m/n/10 CON-FIR-MA-TORY FACTOR-ANALYSIS, DE-VEL-OP-MENT CO-OP-ER-A-TI
+ON, EMPIRICAL- 
+ []
+
+
+Overfull \hbox (32.51328pt too wide) in paragraph at lines 1179--1179
+\OT1/cmr/m/n/10 UCT IN-NO-VA-TION, RESEARCH-AND-DEVELOPMENT, TECHNOLOGY-TRANSFE
+R  
+ []
+
+[97
+
+]
+Overfull \hbox (19.38829pt too wide) in paragraph at lines 1191--1191
+\OT1/cmr/m/n/10 IN-NO-VA-TION SYS-TEMS, RESEARCH-AND-DEVELOPMENT, RESOURCE-BASE
+D 
+ []
+
+[98
+
+] [99
+
+]
+Overfull \hbox (0.56651pt too wide) in paragraph at lines 1214--1214
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, OR-GA-NI-ZA-TIONAL CUL-TUR
+E, STATE IN-FOR-MA- 
+ []
+
+
+Overfull \hbox (59.0422pt too wide) in paragraph at lines 1215--1215
+| \OT1/cmr/m/n/10 EN-VI-RON-MENTS, FIRMS, INFORMATION-SYSTEMS, IN-NO-VA-TION, O
+RGANIZATIONAL- 
+ []
+
+
+Overfull \hbox (17.23653pt too wide) in paragraph at lines 1215--1215
+\OT1/cmr/m/n/10 CHANGE, PER-SPEC-TIVE, PUBLIC-SECTOR, RISK-TAKING, STRAT-EGY, T
+ECH- 
+ []
+
+[100
+
+]
+Overfull \hbox (3.90216pt too wide) in paragraph at lines 1227--1227
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IM-PROVE-MENT, KNOWL-EDGE,
+ PER-FOR-MANCE, 
+ []
+
+
+Overfull \hbox (13.62325pt too wide) in paragraph at lines 1228--1228
+| \OT1/cmr/m/n/10 DY-NAMIC CA-PA-BIL-I-TIES, FAIL-URE, FIRM, IN-NO-VA-TION, KNO
+WL-EDGE MAN- 
+ []
+
+
+Overfull \hbox (3.6938pt too wide) in paragraph at lines 1228--1228
+\OT1/cmr/m/n/10 AGE-MENT, PER-FOR-MANCE, PUB-LIC OR-GA-NI-ZA-TIONS, RESOURCE-BA
+SED 
+ []
+
+[101
+
+]
+Overfull \hbox (21.25887pt too wide) in paragraph at lines 1239--1239
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COM-MU-NI-CA-TION CHAIN OF
+ CON-SULT-ING KNOWL- 
+ []
+
+[102
+
+]
+Overfull \hbox (23.27383pt too wide) in paragraph at lines 1251--1251
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, AL-LIANCE FORMS, KNOWL-EDG
+E SOURC-ING STRAT- 
+ []
+
+
+Overfull \hbox (20.15327pt too wide) in paragraph at lines 1252--1252
+\OT1/cmr/m/n/10 GA-NI-ZA-TIONS, PER-SPEC-TIVES, RESEARCH-AND-DEVELOPMENT, SEC-T
+ORAL 
+ []
+
+[103
+
+]
+Overfull \hbox (11.9555pt too wide) in paragraph at lines 1263--1263
+\OT1/cmr/m/n/10 QUI-SI-TION, MOD-ER-A-TOR ANAL-Y-SIS, STRUC-TURAL EQUA-TION MOD
+-ELLING  
+ []
+
+[104
+
+]
+Overfull \hbox (0.3616pt too wide) in paragraph at lines 1276--1276
+| \OT1/cmr/m/n/10 CA-PA-BIL-ITY, COM-PLE-MEN-TAR-ITY, EM-BED-DED-NESS, EX-PLO-R
+ATION, IN- 
+ []
+
+
+Overfull \hbox (5.77823pt too wide) in paragraph at lines 1276--1276
+\OT1/cmr/m/n/10 NO-VA-TION, LINK-AGES, NET-WORKS, PER-SPEC-TIVE, PROX-IM-ITY, R
+E-GIONS  
+ []
+
+[105
+
+]
+Overfull \hbox (29.73663pt too wide) in paragraph at lines 1288--1288
+\OT1/cmr/m/n/10 A-TION, KNOWL-EDGE, PER-FOR-MANCE, RECON-CEP-TU-AL-IZA-TION, RE
+-SOURCES, 
+ []
+
+[106
+
+]
+Overfull \hbox (7.37439pt too wide) in paragraph at lines 1300--1300
+| \OT1/cmr/m/n/10 CA-PA-BIL-ITY, IDEAS, KNOWL-EDGE TRANS-FER, PER-FOR-MANCE, PE
+R-SPEC- 
+ []
+
+[107
+
+] [108
+
+]
+Overfull \hbox (27.37328pt too wide) in paragraph at lines 1323--1323
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EN-VI-RON-MEN-TAL MAN-AGE-
+MENT, HEADQUARTERS- 
+ []
+
+
+Overfull \hbox (14.80606pt too wide) in paragraph at lines 1324--1324
+| \OT1/cmr/m/n/10 AL-LIANCES, CA-PA-BIL-I-TIES, DE-TER-MI-NANTS, EN-TER-PRISES,
+ FIRM, KNOWL- 
+ []
+
+
+Overfull \hbox (17.09657pt too wide) in paragraph at lines 1324--1324
+\OT1/cmr/m/n/10 EDGE TRANS-FER, MULTINATIONAL-CORPORATION, PER-SPEC-TIVE, RECON
+- 
+ []
+
+[109
+
+]
+Overfull \hbox (0.36047pt too wide) in paragraph at lines 1336--1336
+\OT1/cmr/m/n/10 VEN-TURES, KNOWL-EDGE TRANS-FER, LIFE-CYCLE, MAN-AGE-MENT, PER-
+ 
+ []
+
+[110
+
+]
+Overfull \hbox (10.70659pt too wide) in paragraph at lines 1348--1348
+| \OT1/cmr/m/n/10 DY-NAMIC CA-PA-BIL-I-TIES, IN-TEROR-GA-NI-ZA-TIONAL COL-LAB-O
+-RA-TION, LIFE 
+ []
+
+
+Overfull \hbox (39.11163pt too wide) in paragraph at lines 1348--1348
+\OT1/cmr/m/n/10 SCI-ENCES, NEW-MODEL, PER-FOR-MANCE, RECON-CEP-TU-AL-IZA-TION, 
+RESEARCH- 
+ []
+
+[111
+
+]
+Overfull \hbox (14.45659pt too wide) in paragraph at lines 1360--1360
+| \OT1/cmr/m/n/10 AN-TECEDENTS, COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET-I-TIVE
+ AD-VAN-TAGE, 
+ []
+
+
+Overfull \hbox (17.1671pt too wide) in paragraph at lines 1360--1360
+\OT1/cmr/m/n/10 CON-STRUCTS, FIRM, IN-NO-VA-TION, IN-STRU-MENTS, PER-FOR-MANCE,
+ RECON- 
+ []
+
+[112
+
+]
+Overfull \hbox (0.49495pt too wide) in paragraph at lines 1371--1371
+\OT1/cmr/m/n/10 TIONS OF []AB[]-[]SORPTIVE []CA[]-[]PACITY, MUL-TI-PLE AN-A-LYT
+-I-CAL LEV-ELS, OR- 
+ []
+
+
+Overfull \hbox (36.74936pt too wide) in paragraph at lines 1372--1372
+\OT1/cmr/m/n/10 TIES, EMPIRICAL-TEST, FOR-TUNE FA-VORS, INTERNATIONAL-JOINT-VEN
+TURES, 
+ []
+
+[113
+
+]
+Overfull \hbox (19.10936pt too wide) in paragraph at lines 1384--1384
+| \OT1/cmr/m/n/10 AN-TECEDENTS, DY-NAMIC CA-PA-BIL-I-TIES, IN-DUS-TRY, IN-TEL-L
+EC-TUAL PROP- 
+ []
+
+[114
+
+]
+Overfull \hbox (11.25664pt too wide) in paragraph at lines 1390--1390
+\OT1/cmr/m/n/10 FIRMS' COUN-TRY ORI-GIN DI-VER-SITY AND DO-MES-TIC FIRMS' []AB[
+]-[]SORPTIVE 
+ []
+
+
+Overfull \hbox (21.12323pt too wide) in paragraph at lines 1396--1396
+\OT1/cmr/m/n/10 TUR-ING SEC-TOR, PER-FOR-MANCE, PRO-DUC-TIV-ITY SPILLOVERS, RES
+EARCH- 
+ []
+
+[115
+
+] [116
+
+] [117
+
+]
+Overfull \hbox (6.12325pt too wide) in paragraph at lines 1431--1431
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BROAD-BAND TECH-NOL-OGY, I
+N-FRAS-TRUC-TURE 
+ []
+
+
+Overfull \hbox (11.61046pt too wide) in paragraph at lines 1432--1432
+\OT1/cmr/m/n/10 DE-VEL-OP-MENT, IN-FRAS-TRUC-TURE, IN-NO-VA-TION, IN-TER-NA-TIO
+NAL JOINT 
+ []
+
+[118
+
+]
+Overfull \hbox (0.29204pt too wide) in paragraph at lines 1444--1444
+\OT1/cmr/m/n/10 AGES, MULTINATIONAL-ENTERPRISES, PAR-TIC-I-PA-TION, PRO-DUC-TIV
+-ITY 
+ []
+
+[119
+
+] [120
+
+] [121
+
+]
+Overfull \hbox (2.64992pt too wide) in paragraph at lines 1479--1479
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, FUNC-TIONAL STRATE-GIES, O
+PEN IN-NO-VA-TION, 
+ []
+
+
+Overfull \hbox (28.76222pt too wide) in paragraph at lines 1480--1480
+| \OT1/cmr/m/n/10 DE-VEL-OP-MENT CO-OP-ER-A-TION, EMPIRICAL-EVIDENCE, KNOWL-EDG
+E TRANS- 
+ []
+
+[122
+
+]
+Overfull \hbox (0.98431pt too wide) in paragraph at lines 1492--1492
+| \OT1/cmr/m/n/10 COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, 
+CON-STRUCT, 
+ []
+
+[123
+
+]
+Overfull \hbox (5.5644pt too wide) in paragraph at lines 1503--1503
+\OT1/cmr/m/n/10 ER-TIES OF KNOWL-EDGE, SMALL TO MEDIUM-SIZED EN-TER-PRISES, TEC
+H- 
+ []
+
+
+Overfull \hbox (12.16599pt too wide) in paragraph at lines 1504--1504
+| \OT1/cmr/m/n/10 AM-BI-GU-ITY, CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, C
+RE-ATION, FIRM, 
+ []
+
+
+Overfull \hbox (26.74829pt too wide) in paragraph at lines 1504--1504
+\OT1/cmr/m/n/10 KNOW-HOW, NET-WORK PO-SI-TION, OR-GA-NI-ZA-TIONS, STRATE-GIC AL
+-LIANCES, 
+ []
+
+[124
+
+]
+Overfull \hbox (28.00047pt too wide) in paragraph at lines 1519--1519
+| \OT1/cmr/m/n/10 FIRM, IN-DI-CA-TORS, PATENT, PER-SPEC-TIVE, RESEARCH-AND-DEVE
+LOPMENT, 
+ []
+
+[125
+
+]
+Overfull \hbox (7.23656pt too wide) in paragraph at lines 1534--1534
+| \OT1/cmr/m/n/10 AD-VAN-TAGE, BIOTECH-NOL-OGY, FIRMS, IN-NO-VA-TION, KNOWL-EDG
+E, NET- 
+ []
+
+
+Overfull \hbox (57.7228pt too wide) in paragraph at lines 1534--1534
+\OT1/cmr/m/n/10 WORKS, PER-SPEC-TIVE, RECON-CEP-TU-AL-IZA-TION, RESEARCH-AND-DE
+VELOPMENT, 
+ []
+
+[126
+
+]
+Overfull \hbox (15.35945pt too wide) in paragraph at lines 1546--1546
+| \OT1/cmr/m/n/10 BUSI-NESS MAR-KETS, BUYER-SELLER RE-LA-TION-SHIPS, CA-PA-BIL-
+I-TIES, COM- 
+ []
+
+[127
+
+]
+Overfull \hbox (3.48323pt too wide) in paragraph at lines 1557--1557
+| \OT1/cmr/m/n/10 AC-QUI-SI-TIONS AND MERG-ERS, JAPAN, JOINT VEN-TURES, KO-REA,
+ MULTI- 
+ []
+
+
+Overfull \hbox (5.91493pt too wide) in paragraph at lines 1558--1558
+\OT1/cmr/m/n/10 RIAL KNOWL-EDGE, NET-WORKS, PER-FOR-MANCE, STRATE-GIC AL-LIANCE
+S  
+ []
+
+[128
+
+]
+Overfull \hbox (18.69157pt too wide) in paragraph at lines 1573--1573
+\OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DY-NAMIC CA-PA-BIL-I-TIES, KNOWL-ED
+GE TRANS- 
+ []
+
+
+Overfull \hbox (14.24828pt too wide) in paragraph at lines 1573--1573
+\OT1/cmr/m/n/10 AND-DEVELOPMENT, RESOURCE-BASED VIEW, STRATE-GIC MAN-AGE-MENT 
+ []
+
+[129
+
+] [130
+
+]
+Overfull \hbox (29.73663pt too wide) in paragraph at lines 1597--1597
+\OT1/cmr/m/n/10 A-TION, KNOWL-EDGE, PER-FOR-MANCE, RECON-CEP-TU-AL-IZA-TION, RE
+-SOURCES, 
+ []
+
+[131
+
+] [132
+
+] [133]
+Overfull \hbox (20.77824pt too wide) in paragraph at lines 1622--1622
+| \OT1/cmr/m/n/10 CA-PA-BIL-ITY, PER-SPEC-TIVE, PROX-IM-ITY, RECON-CEP-TU-AL-IZ
+A-TION, SOCIAL- 
+ []
+
+[134
+
+]
+Overfull \hbox (29.04106pt too wide) in paragraph at lines 1634--1634
+| \OT1/cmr/m/n/10 ECONOMIC-DEVELOPMENT, ED-U-CA-TION, EX-TER-NAL-I-TIES, FOR-EI
+GN DIRECT- 
+ []
+
+[135
+
+]
+Overfull \hbox (49.80501pt too wide) in paragraph at lines 1645--1645
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BEN-E-FITS, EX-PLOITA-TION
+, EX-PLO-RATION, UNIVERSITY- 
+ []
+
+
+Overfull \hbox (14.2493pt too wide) in paragraph at lines 1646--1646
+| \OT1/cmr/m/n/10 ACA-DEMIC RE-SEARCH, AL-LIANCES, INDUSTRIAL-INNOVATION, RESEA
+RCH- 
+ []
+
+[136
+
+]
+Overfull \hbox (16.60933pt too wide) in paragraph at lines 1658--1658
+| \OT1/cmr/m/n/10 CHEMICAL-INDUSTRY, COR-PO-RATE SO-CIAL PER-FOR-MANCE, COVARIA
+NCE- 
+ []
+
+
+Overfull \hbox (9.80266pt too wide) in paragraph at lines 1658--1658
+\OT1/cmr/m/n/10 STRUCTURES, ELEC-TRIC UTIL-ITY IN-DUS-TRY, FI-NAN-CIAL PER-FOR-
+MANCE, 
+ []
+
+
+Overfull \hbox (36.26216pt too wide) in paragraph at lines 1658--1658
+\OT1/cmr/m/n/10 GREEN MAN-AGE-MENT, MAN-AGE-MENT STAN-DARDS, NATURAL-ENVIRONMEN
+T, 
+ []
+
+[137
+
+]
+Overfull \hbox (8.20544pt too wide) in paragraph at lines 1669--1669
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-DUS-TRIAL DIS-TRICT, KN
+OWL-EDGE CRE-ATION 
+ []
+
+
+Overfull \hbox (29.7344pt too wide) in paragraph at lines 1669--1669
+[]\OT1/cmr/m/n/10 CA[]-[]PACITY, KNOWL-EDGE SPILLOVERS, OR-GAN-I-SA-TIONAL LEAR
+N-ING, SHARED 
+ []
+
+
+Overfull \hbox (1.3999pt too wide) in paragraph at lines 1670--1670
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DE-VEL-OP-MENT SPILLOVERS, DY-NAM
+IC CA- 
+ []
+
+
+Overfull \hbox (4.24825pt too wide) in paragraph at lines 1670--1670
+\OT1/cmr/m/n/10 PA-BIL-I-TIES, FIRM PER-FOR-MANCE, IN-DUS-TRIAL CLUS-TERS, IN-N
+O-VA-TION, 
+ []
+
+
+Overfull \hbox (31.95766pt too wide) in paragraph at lines 1670--1670
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL RE-SEARCH, PUBLIC-POLICY, SOCIAL-STRUCTURE, 
+STRATE- 
+ []
+
+[138
+
+]
+Overfull \hbox (0.84541pt too wide) in paragraph at lines 1682--1682
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DY-NAMIC CA-PA-BIL-I-TIES, EMPIRI
+CAL-TEST, 
+ []
+
+
+Overfull \hbox (2.51326pt too wide) in paragraph at lines 1682--1682
+\OT1/cmr/m/n/10 RE-SEARCH, RESEARCH-AND-DEVELOPMENT, TECH-NOL-OGY, WEAK TIES  
+ []
+
+[139
+
+]
+Overfull \hbox (20.91386pt too wide) in paragraph at lines 1693--1693
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, SCALE DE-VEL-OP-MENT, SURV
+EY-BASED RE-SEARCH  
+ []
+
+
+Overfull \hbox (13.13823pt too wide) in paragraph at lines 1694--1694
+| \OT1/cmr/m/n/10 AN-TECEDENTS, FIRM, IM-PACT, IN-DUS-TRIES, IN-NO-VA-TION PER-
+FOR-MANCE, 
+ []
+
+[140
+
+]
+Overfull \hbox (0.4288pt too wide) in paragraph at lines 1706--1706
+\OT1/cmr/m/n/10 MANCE, IN-NO-VA-TION, IN-TER-NA-TIONAL JOINT VEN-TURES, KNOWL-E
+DGE 
+ []
+
+
+Overfull \hbox (4.24937pt too wide) in paragraph at lines 1706--1706
+\OT1/cmr/m/n/10 TRANS-FER, RECON-CEP-TU-AL-IZA-TION, RESOURCE-BASED VIEW, SAMPL
+E- 
+ []
+
+[141
+
+]
+Overfull \hbox (3.34552pt too wide) in paragraph at lines 1718--1718
+| \OT1/cmr/m/n/10 BIOTECH-NOL-OGY, FIRMS, LO-CAL SEARCH, MAR-KET VALUE, NET-WOR
+KS, 
+ []
+
+[142
+
+]
+Overfull \hbox (3.96938pt too wide) in paragraph at lines 1729--1729
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DO-MES-TIC TECH-NOL-OGY PU
+R-CHASE, FOR-EIGN 
+ []
+
+
+Overfull \hbox (2.09541pt too wide) in paragraph at lines 1730--1730
+| \OT1/cmr/m/n/10 2 FACES, AF-FECT ECONOMIC-GROWTH, COUNT DATA, FIRM-LEVEL, FOR
+- 
+ []
+
+
+Overfull \hbox (12.2343pt too wide) in paragraph at lines 1730--1730
+\OT1/cmr/m/n/10 EIGN TECH-NOL-OGY, IN-DUS-TRIES, PANEL-DATA, PRO-DUC-TIV-ITY GR
+OWTH, 
+ []
+
+[143
+
+]
+Overfull \hbox (9.80493pt too wide) in paragraph at lines 1742--1742
+| \OT1/cmr/m/n/10 AN-TECEDENTS, BUSI-NESS UNIT, HIGH-TECHNOLOGY, IN-NO-VA-TION,
+ JOINT 
+ []
+
+[144
+
+]
+Overfull \hbox (7.51334pt too wide) in paragraph at lines 1754--1754
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE-NESS, EX-PLOITA-TION, FIRM, KNOWL-EDGE DE-VEL-
+OP-MENT, 
+ []
+
+[145
+
+]
+Overfull \hbox (39.9416pt too wide) in paragraph at lines 1765--1765
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-NO-VA-TION SUR-VEYS, IN
+TRA-INDUSTRY SPILLOVERS, 
+ []
+
+
+Overfull \hbox (6.1254pt too wide) in paragraph at lines 1766--1766
+| \OT1/cmr/m/n/10 HET-ERO-GENE-ITY, IM-I-TA-TION, IN-NO-VA-TION, PER-FOR-MANCE,
+ RESEARCH- 
+ []
+
+[146
+
+]
+Overfull \hbox (15.98323pt too wide) in paragraph at lines 1777--1777
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-TER-PART-NER RE-SOURCE 
+ALIGN-MENT, KNOWL- 
+ []
+
+[147
+
+]
+Overfull \hbox (9.03986pt too wide) in paragraph at lines 1790--1790
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, EMPIRICAL-ANALYSIS, IM-PACT, INI-
+TIAL PUB- 
+ []
+
+
+Overfull \hbox (9.17885pt too wide) in paragraph at lines 1790--1790
+\OT1/cmr/m/n/10 AND-DEVELOPMENT, STRATE-GIC AL-LIANCES, SUP-PLIER RE-LA-TION-SH
+IPS, 
+ []
+
+[148
+
+]
+Overfull \hbox (9.39665pt too wide) in paragraph at lines 1798--1798
+| \OT1/cmr/m/n/10 2011, SO JOUR-NAL OF CON-STRUC-TION EN-GI-NEER-ING AND MANAGE
+MENT- 
+ []
+
+
+Overfull \hbox (1.33151pt too wide) in paragraph at lines 1801--1801
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-NO-VA-TION, LEARN-ING, 
+OR-GA-NI-ZA-TIONAL IS- 
+ []
+
+[149
+
+]
+Overfull \hbox (2.2333pt too wide) in paragraph at lines 1813--1813
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EX-TER-NAL KNOWL-EDGE IN-F
+LOWS, FI-NAN-CIAL 
+ []
+
+
+Overfull \hbox (1.81769pt too wide) in paragraph at lines 1814--1814
+| \OT1/cmr/m/n/10 COM-PLE-MEN-TAR-ITY, DY-NAMIC CA-PA-BIL-I-TIES, FIRMS, KNOWL-
+EDGE AC- 
+ []
+
+
+Overfull \hbox (11.95657pt too wide) in paragraph at lines 1814--1814
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL AN-TECEDENTS, PROD-UCT DE-VEL-OP-MENT, RESEA
+RCH- 
+ []
+
+[150
+
+]
+Overfull \hbox (2.23433pt too wide) in paragraph at lines 1826--1826
+| \OT1/cmr/m/n/10 AL-LIANCES, COM-PET-I-TIVE AD-VAN-TAGE, DY-NAMIC CA-PA-BIL-I-
+TIES, FIRM, 
+ []
+
+
+Overfull \hbox (7.86047pt too wide) in paragraph at lines 1826--1826
+\OT1/cmr/m/n/10 IN-NO-VA-TION, KNOWL-EDGE TRANS-FER, MAN-AGE-MENT, NET-WORKS, P
+ER- 
+ []
+
+[151
+
+]
+Overfull \hbox (25.22157pt too wide) in paragraph at lines 1838--1838
+| \OT1/cmr/m/n/10 2 FACES, ECONOMIC-GROWTH, FIRM-LEVEL, FOR-EIGN DIRECT-INVESTM
+ENT, 
+ []
+
+
+Overfull \hbox (19.66493pt too wide) in paragraph at lines 1838--1838
+\OT1/cmr/m/n/10 IN-HOUSE, IN-DUS-TRY, KNOWL-EDGE SPILLOVERS, PRO-DUC-TIV-ITY GR
+OWTH, 
+ []
+
+[152
+
+]
+Overfull \hbox (6.26317pt too wide) in paragraph at lines 1850--1850
+| \OT1/cmr/m/n/10 DE-TER-MI-NANTS, ECONOMIC-GROWTH, IN-NO-VA-TION, PATENT CI-TA
+-TIONS  
+ []
+
+[153
+
+]
+Overfull \hbox (6.67775pt too wide) in paragraph at lines 1861--1861
+| \OT1/cmr/m/n/10 CUS-TOMER RE-LA-TION-SHIP MAN-AGE-MENT, KNOWL-EDGE MAN-AGE-ME
+NT, 
+ []
+
+
+Overfull \hbox (0.14882pt too wide) in paragraph at lines 1862--1862
+\OT1/cmr/m/n/10 NA-TIONAL JOINT VEN-TURES, LINK AL-LIANCES, MAR-KET-ING RE-LA-T
+ION- 
+ []
+
+[154
+
+]
+Overfull \hbox (19.03989pt too wide) in paragraph at lines 1878--1878
+| \OT1/cmr/m/n/10 6-SIGMA IM-PLE-MEN-TA-TION, COM-PET-I-TIVE AD-VAN-TAGE, GOAL-
+THEORETIC 
+ []
+
+
+Overfull \hbox (11.1949pt too wide) in paragraph at lines 1878--1878
+\OT1/cmr/m/n/10 PER-SPEC-TIVE, IN-NO-VA-TION, INTERNATIONAL-JOINT-VENTURES, KNO
+WL- 
+ []
+
+[155
+
+]
+Overfull \hbox (2.02718pt too wide) in paragraph at lines 1889--1889
+| \OT1/cmr/m/n/10 BUYER-SUPPLIER RE-LA-TION-SHIPS, CANADA, COL-LAB-O-RA-TION, K
+NOWL- 
+ []
+
+
+Overfull \hbox (10.49933pt too wide) in paragraph at lines 1890--1890
+| \OT1/cmr/m/n/10 AN-TECEDENTS, CHAIN, FIRMS, IM-PROVE-MENT, IN-TER-NA-TIONAL S
+TRATE- 
+ []
+
+[156
+
+]
+Overfull \hbox (5.98326pt too wide) in paragraph at lines 1905--1905
+| \OT1/cmr/m/n/10 CHANGE MAN-AGE-MENT, IM-PLE-MEN-TA-TION FAIL-URE, KNOWL-EDGE 
+PRO- 
+ []
+
+
+Overfull \hbox (0.84543pt too wide) in paragraph at lines 1906--1906
+\OT1/cmr/m/n/10 ORI-EN-TA-TION, OR-GA-NI-ZA-TIONAL ROU-TINES, PAR-TIAL LEAST-SQ
+UARES, 
+ []
+
+[157
+
+]
+Overfull \hbox (10.08046pt too wide) in paragraph at lines 1917--1917
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CLUS-TERS, IN-DUS-TRIAL RE
+-SEARCH IN-STI-TUTES, 
+ []
+
+[158
+
+]
+Overfull \hbox (7.85927pt too wide) in paragraph at lines 1930--1930
+| \OT1/cmr/m/n/10 CA-PA-BIL-ITY, COM-PET-I-TIVE AD-VAN-TAGE, DRUG DIS-COV-ERY, 
+EMPIRICAL- 
+ []
+
+[159
+
+]
+Overfull \hbox (10.22044pt too wide) in paragraph at lines 1944--1944
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, AL-LIANCE STA-BIL-ITY, PAR
+T-NER-SHIP, RE-SOURCE 
+ []
+
+
+Overfull \hbox (5.77605pt too wide) in paragraph at lines 1945--1945
+\OT1/cmr/m/n/10 AL-IZA-TION, JOINT VEN-TURES, PER-FOR-MANCE, RE-SOURCE COM-PLE-
+MEN- 
+ []
+
+[160
+
+]
+Overfull \hbox (5.21942pt too wide) in paragraph at lines 1956--1956
+\OT1/cmr/m/n/10 UTIL-I-TIES, KNOWL-EDGE AC-QUI-SI-TION AND AS-SIM-I-LA-TION, KN
+OWL-EDGE 
+ []
+
+
+Overfull \hbox (8.48325pt too wide) in paragraph at lines 1956--1956
+\OT1/cmr/m/n/10 TRANS-FOR-MA-TION AND EX-PLOITA-TION, LEARN-ING PRO-CESSES, STR
+ATE- 
+ []
+
+[161
+
+]
+Overfull \hbox (3.20654pt too wide) in paragraph at lines 1968--1968
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EX-PLOITA-TIVE LEARN-ING, 
+EX-PLORATORY, OR- 
+ []
+
+
+Overfull \hbox (33.90324pt too wide) in paragraph at lines 1969--1969
+| \OT1/cmr/m/n/10 CON-TEXT, CRE-ATIV-ITY, EX-PLOITA-TION, IN-NO-VA-TION, LEARNI
+NG-PROCESSES, 
+ []
+
+
+Overfull \hbox (2.651pt too wide) in paragraph at lines 1969--1969
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL AM-BIDEX-TER-ITY, PER-FOR-MANCE, PROD-UCT DE
+-VEL- 
+ []
+
+[162
+
+]
+Overfull \hbox (21.60938pt too wide) in paragraph at lines 1981--1981
+\OT1/cmr/m/n/10 MAN-AGE-MENT, MAR-KET ORI-EN-TA-TION, OR-GA-NI-ZA-TIONAL PER-FO
+R-MANCE, 
+ []
+
+[163
+
+]
+Overfull \hbox (10.98442pt too wide) in paragraph at lines 1992--1992
+\OT1/cmr/m/n/10 EQUA-TIONS, MAN-U-FAC-TUR-ING FLEX-I-BIL-ITY, OP-ER-A-TIONAL []
+AB[]-[]SORPTIVE 
+ []
+
+
+Overfull \hbox (18.27708pt too wide) in paragraph at lines 1993--1993
+\OT1/cmr/m/n/10 TAL UN-CER-TAINTY, FUTURE-DIRECTIONS, LATENT-VARIABLES, MAXIMUM
+- 
+ []
+
+
+Overfull \hbox (6.12326pt too wide) in paragraph at lines 1993--1993
+\OT1/cmr/m/n/10 LIKELIHOOD-ESTIMATION, MEDIUM-SIZED FIRMS, OR-GA-NI-ZA-TIONAL A
+M- 
+ []
+
+[164
+
+]
+Overfull \hbox (2.16711pt too wide) in paragraph at lines 2005--2005
+| \OT1/cmr/m/n/10 CLUS-TERS, COM-PE-TI-TION, DE-TER-MI-NANTS, GE-OG-RA-PHY, IN-
+NO-VA-TION, 
+ []
+
+[165
+
+]
+Overfull \hbox (8.83049pt too wide) in paragraph at lines 2016--2016
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DE-VEL-OP-ING COUN-TRIES, 
+ECO-NOMIC GROWTH, 
+ []
+
+
+Overfull \hbox (9.38824pt too wide) in paragraph at lines 2017--2017
+\OT1/cmr/m/n/10 OP-POR-TU-NITY, PER-FOR-MANCE, POVERTY RE-DUC-TION, PRO-LIF-ER-
+A-TION, 
+ []
+
+[166
+
+]
+Overfull \hbox (16.6799pt too wide) in paragraph at lines 2029--2029
+\OT1/cmr/m/n/10 TEROR-GA-NI-ZA-TIONAL COL-LAB-O-RA-TION, KNOWL-EDGE, MANUFACTUR
+ING- 
+ []
+
+
+Overfull \hbox (26.5399pt too wide) in paragraph at lines 2029--2029
+\OT1/cmr/m/n/10 INDUSTRY, NET-WORKS, PROD-UCT IN-TRO-DUC-TIONS, STRATE-GIC AL-L
+IANCES, 
+ []
+
+[167
+
+]
+Overfull \hbox (13.41489pt too wide) in paragraph at lines 2040--2040
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CA-PA-BIL-I-TIES, IN-CRE-M
+EN-TAL IN-NO-VA-TION, NET- 
+ []
+
+[168
+
+]
+Overfull \hbox (0.9832pt too wide) in paragraph at lines 2052--2052
+\OT1/cmr/m/n/10 TAGES, FAM-ILY FIRMS, LOW-COST AIR-LINES, STRATE-GIC MAN-AGE-ME
+NT  
+ []
+
+
+Overfull \hbox (0.15211pt too wide) in paragraph at lines 2053--2053
+| \OT1/cmr/m/n/10 BUSI-NESSES, CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, IN
+-TER-NA-TION- 
+ []
+
+[169
+
+]
+Overfull \hbox (16.19162pt too wide) in paragraph at lines 2064--2064
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-FOR-MA-TION SYS-TEMS, I
+T CA-PA-BIL-ITY, KNOWL- 
+ []
+
+
+Overfull \hbox (14.10936pt too wide) in paragraph at lines 2065--2065
+| \OT1/cmr/m/n/10 BUSI-NESS, COM-PET-I-TIVE AD-VAN-TAGE, IN-NO-VA-TION, KNOWL-E
+DGE TRANS- 
+ []
+
+[170
+
+] [171
+
+] [172
+
+]
+Overfull \hbox (14.24937pt too wide) in paragraph at lines 2101--2101
+\OT1/cmr/m/n/10 NO-VA-TION, KNOWL-EDGE, MAR-KET, MERG-ERS, SAM-PLE SE-LEC-TION,
+ TECH- 
+ []
+
+[173
+
+] [174
+
+] [175
+
+]
+Overfull \hbox (7.7216pt too wide) in paragraph at lines 2137--2137
+| \OT1/cmr/m/n/10 AC-QUI-SI-TION PER-FOR-MANCE, CA-PA-BIL-I-TIES, EMPIRICAL-EXA
+MINATION, 
+ []
+
+
+Overfull \hbox (0.49927pt too wide) in paragraph at lines 2137--2137
+\OT1/cmr/m/n/10 SEARCH, PATENT CI-TA-TIONS, RESEARCH-AND-DEVELOPMENT, STRATE- 
+ []
+
+[176
+
+]
+Overfull \hbox (22.99834pt too wide) in paragraph at lines 2149--2149
+\OT1/cmr/m/n/10 EN-TER-PRISE SYS-TEMS, INFORMATION-SYSTEMS, JOINT VEN-TURES, KN
+OWL- 
+ []
+
+[177
+
+]
+Overfull \hbox (6.05489pt too wide) in paragraph at lines 2161--2161
+\OT1/cmr/m/n/10 FIRM PER-FOR-MANCE, MULTINATIONAL-CORPORATION, MUL-TI-PROD-UCT 
+
+ []
+
+[178
+
+]
+Overfull \hbox (35.29224pt too wide) in paragraph at lines 2173--2173
+| \OT1/cmr/m/n/10 COUN-TRIES, ECONOMIC-GROWTH, FDI, OPEN-NESS, PANEL, POOR, SPI
+LLOVERS, 
+ []
+
+[179
+
+]
+Overfull \hbox (2.79097pt too wide) in paragraph at lines 2185--2185
+\OT1/cmr/m/n/10 EX-PLOITA-TION, IN-NO-VA-TION, OR-GA-NI-ZA-TIONAL AM-BIDEX-TER-
+ITY, PER- 
+ []
+
+
+Overfull \hbox (32.51326pt too wide) in paragraph at lines 2185--2185
+\OT1/cmr/m/n/10 FOR-MANCE, RESEARCH-AND-DEVELOPMENT, SO-CIAL IN-TE-GRA-TION, ST
+RATE- 
+ []
+
+[180
+
+]
+Overfull \hbox (13.62439pt too wide) in paragraph at lines 2196--2196
+| \OT1/cmr/m/n/10 KNOWL-EDGE PRO-TEC-TION, KNOWLEDGE-SHARING, NET-WORKS, OR-CHE
+S- 
+ []
+
+
+Overfull \hbox (11.401pt too wide) in paragraph at lines 2197--2197
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, EMPIRICAL-TEST, JOINT VEN-TURES, 
+KNOWL- 
+ []
+
+[181
+
+]
+Overfull \hbox (32.16386pt too wide) in paragraph at lines 2208--2208
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, FDI, HU-MAN CAP-I-TAL, IN-
+TER-NA-TIONAL SPILLOVERS, 
+ []
+
+
+Overfull \hbox (0.4299pt too wide) in paragraph at lines 2209--2209
+| \OT1/cmr/m/n/10 BRAIN-DRAIN, COIN-TE-GRA-TION, DE-VEL-OP-MENT SPILLOVERS, HET
+-ERO- 
+ []
+
+[182
+
+] [183
+
+]
+Overfull \hbox (11.67769pt too wide) in paragraph at lines 2234--2234
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DE-TRACTED RE-GIONS, KNOL-
+WEDGE GATE-KEEP- 
+ []
+
+[184
+
+] [185
+
+]
+Overfull \hbox (5.56877pt too wide) in paragraph at lines 2259--2259
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, CO-OP-ER-A-TION, EMPIRICAL-ANALYS
+IS, FIRM 
+ []
+
+
+Overfull \hbox (2.23544pt too wide) in paragraph at lines 2259--2259
+\OT1/cmr/m/n/10 PRO-TEC-TION, RESEARCH-AND-DEVELOPMENT, STRATE-GIC AL-LIANCES, 
+
+ []
+
+[186
+
+] [187
+
+]
+Overfull \hbox (4.52386pt too wide) in paragraph at lines 2282--2282
+\OT1/cmr/m/n/10 DE-CI-SION SUP-PORT SYS-TEMS, IN-FOR-MA-TION SYS-TEMS, PER-CEIV
+ED USE- 
+ []
+
+[188
+
+]
+Overfull \hbox (23.13718pt too wide) in paragraph at lines 2299--2299
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, E-BUSINESS TECH-NOLO-GIES, E-PROC
+UREMENT, 
+ []
+
+
+Overfull \hbox (6.40216pt too wide) in paragraph at lines 2299--2299
+\OT1/cmr/m/n/10 FIRM PER-FOR-MANCE, INFORMATION-TECHNOLOGY, JOB-SATISFACTION, 
+ []
+
+[189
+
+]
+Overfull \hbox (64.52496pt too wide) in paragraph at lines 2314--2314
+| \OT1/cmr/m/n/10 CUL-TURAL DIS-TANCE, EMERG-ING MAR-KET, FIRM PER-FOR-MANCE, I
+NTERNATIONAL- 
+ []
+
+
+Overfull \hbox (18.13603pt too wide) in paragraph at lines 2314--2314
+\OT1/cmr/m/n/10 MANCE, PSY-CHIC DIS-TANCE, RESOURCE-BASED VIEW, STRUC-TURAL EQU
+A- 
+ []
+
+[190
+
+]
+Overfull \hbox (2.92989pt too wide) in paragraph at lines 2330--2330
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CLUS-TER, EX-PORT, POR-TU-
+GAL, PO-SI-TION, SIZE  
+ []
+
+[191
+
+]
+Overfull \hbox (34.04947pt too wide) in paragraph at lines 2339--2339
+| \OT1/cmr/m/n/10 2013, SO ZBORNIK RADOVA EKONOM-SKOG FAKUL-TETA U RIJECI-PROCE
+EDINGS 
+ []
+
+
+Overfull \hbox (3.62328pt too wide) in paragraph at lines 2342--2342
+\OT1/cmr/m/n/10 SEM-I-NA-TION, KNOWLEDGE-INTENSIVE IN-DUS-TRIES, REL-E-VANT KNO
+WL- 
+ []
+
+[192
+
+]
+Overfull \hbox (10.77603pt too wide) in paragraph at lines 2354--2354
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EN-TREPRENEUR-SHIP, HU-MAN
+ CAP-I-TAL, KNOWL- 
+ []
+
+[193
+
+]
+Overfull \hbox (10.2205pt too wide) in paragraph at lines 2367--2367
+| \OT1/cmr/m/n/10 DY-NAMIC CA-PA-BIL-I-TIES, E-BUSINESS, EX-PLORATORY ANAL-Y-SI
+S, FUTURE- 
+ []
+
+
+Overfull \hbox (7.09543pt too wide) in paragraph at lines 2367--2367
+\OT1/cmr/m/n/10 BIL-ITY, MAN-U-FAC-TUR-ING PRAC-TICES, OP-ER-A-TIONAL CA-PA-BIL
+-I-TIES, OR- 
+ []
+
+[194
+
+]
+Overfull \hbox (1.88708pt too wide) in paragraph at lines 2378--2378
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-DUS-TRIAL DIS-TRICTS, I
+N-NO-VA-TION, KNOWL- 
+ []
+
+
+Overfull \hbox (10.56877pt too wide) in paragraph at lines 2379--2379
+| \OT1/cmr/m/n/10 AD-VAN-TAGE, CLUS-TERS, COM-BI-NA-TIVE CA-PA-BIL-I-TIES, CRE-
+ATION, FIRMS, 
+ []
+
+[195
+
+]
+Overfull \hbox (23.69385pt too wide) in paragraph at lines 2391--2391
+| \OT1/cmr/m/n/10 DIRECT-INVESTMENT, DO-MES-TIC FIRMS, ECON-OMY, EMPIRICAL-EVID
+ENCE, 
+ []
+
+
+Overfull \hbox (8.7632pt too wide) in paragraph at lines 2391--2391
+\OT1/cmr/m/n/10 EX-TER-NAL-I-TIES, FDI, MEX-I-CAN MANUFACTURING-INDUSTRIES, PRO
+-DUC- 
+ []
+
+[196
+
+] [197
+
+]
+Overfull \hbox (1.33159pt too wide) in paragraph at lines 2414--2414
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-FOR-MA-TION DIS-SEM-I-N
+A-TION, IN-FOR-MA-TION 
+ []
+
+
+Overfull \hbox (0.98544pt too wide) in paragraph at lines 2415--2415
+| \OT1/cmr/m/n/10 DIS-SEM-I-NA-TION, IM-PACT, IN-NO-VA-TION PER-FOR-MANCE, IN-T
+EL-LI-GENCE, 
+ []
+
+[198
+
+]
+Overfull \hbox (34.87556pt too wide) in paragraph at lines 2427--2427
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE-NESS, CON-VER-GENCE, DE-TER-MI-NANTS, DIF-FU-S
+ION, ECONOMIC- 
+ []
+
+
+Overfull \hbox (9.9449pt too wide) in paragraph at lines 2427--2427
+\OT1/cmr/m/n/10 DEVELOPMENT, EVO-LU-TION-ARY, GROWTH, IN-STI-TU-TIONS, STAG-NA-
+TION, 
+ []
+
+[199
+
+] [200
+
+]
+Overfull \hbox (5.01105pt too wide) in paragraph at lines 2450--2450
+\OT1/cmr/m/n/10 STI-TU-TIONAL IN-FLU-ENCES, IT AS-SIM-I-LA-TION, OR-GAN-I-SA-TI
+ONAL LEARN- 
+ []
+
+
+Overfull \hbox (8.20769pt too wide) in paragraph at lines 2451--2451
+| \OT1/cmr/m/n/10 AD-VAN-TAGE, AN-TECEDENTS, CHINA, DIF-FU-SION, ERP IM-PLE-MEN
+-TA-TION, 
+ []
+
+[201
+
+]
+Overfull \hbox (0.14992pt too wide) in paragraph at lines 2463--2463
+| \OT1/cmr/m/n/10 CHAIN MAN-AGE-MENT, COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET-
+I-TIVE AD- 
+ []
+
+
+Overfull \hbox (14.45656pt too wide) in paragraph at lines 2463--2463
+\OT1/cmr/m/n/10 VAN-TAGE, DY-NAMIC CA-PA-BIL-I-TIES, IN-NO-VA-TION PER-FOR-MANC
+E, KNOWL- 
+ []
+
+
+Overfull \hbox (2.85931pt too wide) in paragraph at lines 2463--2463
+\OT1/cmr/m/n/10 EDGE TRANS-FER, LEARNING-PROCESSES, MAN-U-FAC-TUR-ING STRAT-EGY
+, 
+ []
+
+[202
+
+]
+Overfull \hbox (22.5816pt too wide) in paragraph at lines 2474--2474
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COG-NI-TIVE DIS-TANCE, IN-
+NO-VA-TION, OFF-SHORING, 
+ []
+
+
+Overfull \hbox (33.34772pt too wide) in paragraph at lines 2475--2475
+\OT1/cmr/m/n/10 FIRMS, HET-ERO-GENE-ITY, IN-DUS-TRY, PER-FOR-MANCE, PER-SPEC-TI
+VE, SEARCH, 
+ []
+
+[203
+
+]
+Overfull \hbox (22.23326pt too wide) in paragraph at lines 2486--2486
+| \OT1/cmr/m/n/10 MAR-KET-ING STRAT-EGY, MNC OR-GA-NI-ZA-TIONAL MECH-A-NISMS, S
+UB-SIDIARY 
+ []
+
+
+Overfull \hbox (32.86053pt too wide) in paragraph at lines 2487--2487
+| \OT1/cmr/m/n/10 CONCEPTUAL-FRAMEWORK, DY-NAMIC CA-PA-BIL-I-TIES, EMPIRICAL-EV
+IDENCE, 
+ []
+
+
+Overfull \hbox (52.3733pt too wide) in paragraph at lines 2487--2487
+\OT1/cmr/m/n/10 IN-NO-VA-TION, KNOWL-EDGE TRANS-FER, MAR-KET ORI-EN-TA-TION, MU
+LTINATIONAL- 
+ []
+
+
+Overfull \hbox (5.84651pt too wide) in paragraph at lines 2487--2487
+\OT1/cmr/m/n/10 CORPORATIONS, OR-GA-NI-ZA-TIONAL PRAC-TICES, PER-FOR-MANCE, STR
+AT- 
+ []
+
+[204
+
+]
+Overfull \hbox (12.02603pt too wide) in paragraph at lines 2499--2499
+| \OT1/cmr/m/n/10 ELEC-TRON-ICS IN-DUS-TRY, FI-NAN-CIAL PER-FOR-MANCE, HUMAN-RE
+SOURCE 
+ []
+
+[205
+
+]
+Overfull \hbox (4.9427pt too wide) in paragraph at lines 2511--2511
+\OT1/cmr/m/n/10 MENT CO-OP-ER-A-TION, DEVELOPMENT-PROJECTS, IN-NO-VA-TION PER-F
+OR- 
+ []
+
+
+Overfull \hbox (7.51324pt too wide) in paragraph at lines 2511--2511
+\OT1/cmr/m/n/10 MANCE, INTERNATIONAL-JOINT-VENTURES, KNOWL-EDGE, MAR-KET ORI- 
+ []
+
+[206
+
+]
+Overfull \hbox (15.84656pt too wide) in paragraph at lines 2523--2523
+\OT1/cmr/m/n/10 IN-NO-VA-TION, KNOWL-EDGE, MAN-AGE-MENT RE-SEARCH, ORGANIZATION
+AL- 
+ []
+
+[207
+
+]
+Overfull \hbox (4.66492pt too wide) in paragraph at lines 2534--2534
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, AUS-TRALIA, EN-VI-RON-MEN-
+TAL PER-FOR-MANCE, 
+ []
+
+
+Overfull \hbox (17.72273pt too wide) in paragraph at lines 2535--2535
+\OT1/cmr/m/n/10 KNOWL-EDGE, MAN-AGE-MENT, RECON-CEP-TU-AL-IZA-TION, RESOURCE-BA
+SED 
+ []
+
+[208
+
+]
+Overfull \hbox (6.05383pt too wide) in paragraph at lines 2546--2546
+\OT1/cmr/m/n/10 NOL-OGY, KNOWL-EDGE MAN-AGE-MENT, KNOWL-EDGE TAC-IT-NESS, MULTI
+- 
+ []
+
+[209
+
+]
+Overfull \hbox (30.29099pt too wide) in paragraph at lines 2562--2562
+\OT1/cmr/m/n/10 INTERNATIONAL-TRADE, MAN-U-FAC-TUR-ING FIRMS, PRO-DUC-TIV-ITY, 
+PROPEN- 
+ []
+
+[210
+
+]
+Overfull \hbox (14.45435pt too wide) in paragraph at lines 2573--2573
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-TER-NA-TIONAL LO-GIS-TI
+CS SER-VICE PROVIDERS 
+ []
+
+
+Overfull \hbox (9.17882pt too wide) in paragraph at lines 2573--2573
+\OT1/cmr/m/n/10 (ILSP), ME-DI-A-TION EF-FECT, OR-GA-NI-ZA-TIONAL CUL-TURE, PER-
+FOR-MANCE  
+ []
+
+[211
+
+]
+Overfull \hbox (6.95874pt too wide) in paragraph at lines 2588--2588
+| \OT1/cmr/m/n/10 2 FACES, CITIES, EU-ROPE, GE-OG-RA-PHY, GROWTH, MOD-ELS, PANE
+L-DATA, 
+ []
+
+[212
+
+] [213
+
+]
+Overfull \hbox (20.77608pt too wide) in paragraph at lines 2611--2611
+| \OT1/cmr/m/n/10 IN-FOR-MA-TION TECH-NOL-OGY, IN-TER-DE-PEN-DENT TASKS, OR-GAN
+-I-SA-TIONAL 
+ []
+
+
+Overfull \hbox (32.44168pt too wide) in paragraph at lines 2611--2611
+\OT1/cmr/m/n/10 PER-FOR-MANCE, PO-TEN-TIAL []AB[]-[]SORPTIVE []CA[]-[]PACITY, R
+E-ALISED []AB[]-[]SORPTIVE 
+ []
+
+[214
+
+]
+Overfull \hbox (1.19482pt too wide) in paragraph at lines 2624--2624
+| \OT1/cmr/m/n/10 2 FACES, DY-NAM-ICS, IN-DUS-TRY, IN-NO-VA-TION, PER-FOR-MANCE
+, PRO-DUC- 
+ []
+
+[215
+
+]
+Overfull \hbox (4.52498pt too wide) in paragraph at lines 2635--2635
+| \OT1/cmr/m/n/10 EN-VI-RON-MEN-TAL COM-PLEX-ITY, IN-FOR-MA-TION SYS-TEMS CA-PA
+-BIL-I-TIES, 
+ []
+
+
+Overfull \hbox (2.02376pt too wide) in paragraph at lines 2635--2635
+\OT1/cmr/m/n/10 OP-ER-A-TIONAL []AB[]-[]SORPTIVE []CA[]-[]PACITY, STRATE-GIC IT
+ ALIGN-MENT, TO- 
+ []
+
+
+Overfull \hbox (22.02716pt too wide) in paragraph at lines 2636--2636
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DECISION-MAKING, DEVELOPMENT-PROJ
+ECTS, 
+ []
+
+[216
+
+]
+Overfull \hbox (13.96933pt too wide) in paragraph at lines 2647--2647
+| \OT1/cmr/m/n/10 LATE-COMER []AB[]-[]SORPTIVE []CA[]-[]PACITY, LATE-COMER FIRM
+S, TAI-WAN, TECH- 
+ []
+
+
+Overfull \hbox (15.8455pt too wide) in paragraph at lines 2648--2648
+| \OT1/cmr/m/n/10 CA-PA-BIL-ITY AC-CU-MU-LA-TION, COM-BI-NA-TIVE CA-PA-BIL-I-TI
+ES, DEVELOPING- 
+ []
+
+
+Overfull \hbox (18.1371pt too wide) in paragraph at lines 2648--2648
+\OT1/cmr/m/n/10 COUNTRY, DIS-PLAY IN-DUS-TRY, IN-NO-VA-TION CA-PA-BIL-ITY, IN-T
+ER-NA-TIONAL 
+ []
+
+
+Overfull \hbox (25.14996pt too wide) in paragraph at lines 2648--2648
+\OT1/cmr/m/n/10 JOINT VEN-TURES, KNOWL-EDGE TRANS-FER, LATE-COMER FIRMS, RESEAR
+CH- 
+ []
+
+[217
+
+] [218
+
+]
+Overfull \hbox (13.34435pt too wide) in paragraph at lines 2671--2671
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DY-NAMIC CA-PA-BIL-I-TIES,
+ OR-GAN-I-SA-TIONAL ROU- 
+ []
+
+[219
+
+]
+Overfull \hbox (10.63716pt too wide) in paragraph at lines 2683--2683
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, FIRM IN-NO-VA-TIVE-NESS, F
+LEXIBILITY-ORIENTED 
+ []
+
+
+Overfull \hbox (7.72043pt too wide) in paragraph at lines 2684--2684
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGE, HUMAN-RESOURCE 
+MAN-AGE- 
+ []
+
+[220
+
+] [221
+
+]
+Overfull \hbox (26.81995pt too wide) in paragraph at lines 2708--2708
+| \OT1/cmr/m/n/10 COR-RUP-TION, COUN-TRIES, ECONOMIC-DEVELOPMENT, EM-PIR-ICS, F
+OREIGN- 
+ []
+
+
+Overfull \hbox (14.8755pt too wide) in paragraph at lines 2708--2708
+\OT1/cmr/m/n/10 AID, GOV-ERN-MENT, IDEN-TI-FI-CA-TION, IN-FER-ENCE, LEAST-SQUAR
+ES, SKILL 
+ []
+
+[222
+
+]
+Overfull \hbox (0.56766pt too wide) in paragraph at lines 2719--2719
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EN-TRY, EX-PE-RI-EN-TIAL L
+EARN-ING, VI-CAR-I-OUS 
+ []
+
+[223
+
+]
+Overfull \hbox (46.055pt too wide) in paragraph at lines 2732--2732
+| \OT1/cmr/m/n/10 AN-TECEDENTS, CHI-NESE FIRMS, COM-PLE-MEN-TAR-ITY, EMPIRICAL-
+EVALUATION, 
+ []
+
+[224
+
+]
+Overfull \hbox (7.23431pt too wide) in paragraph at lines 2744--2744
+\OT1/cmr/m/n/10 IN-FOR-MA-TION, IN-NO-VA-TION PER-FOR-MANCE, IN-TER-RATER AGREE
+-MENT, 
+ []
+
+[225
+
+]
+Overfull \hbox (1.88715pt too wide) in paragraph at lines 2759--2759
+| \OT1/cmr/m/n/10 AP-PRO-PRI-ABIL-ITY REGIME, IN-NO-VA-TION PER-FOR-MANCE, KNOW
+L-EDGE 
+ []
+
+
+Overfull \hbox (0.42987pt too wide) in paragraph at lines 2760--2760
+| \OT1/cmr/m/n/10 AP-PRO-PRI-ABIL-ITY, COM-PET-I-TIVE AD-VAN-TAGE, EMPIRICAL-EV
+IDENCE, 
+ []
+
+
+Overfull \hbox (0.15102pt too wide) in paragraph at lines 2760--2760
+\OT1/cmr/m/n/10 IN-DUS-TRY, IN-TEL-LEC-TUAL PROP-ERTY, KNOWL-EDGE SPILLOVERS, P
+ER- 
+ []
+
+[226
+
+]
+Overfull \hbox (8.55392pt too wide) in paragraph at lines 2772--2772
+| \OT1/cmr/m/n/10 BUSI-NESS PER-FOR-MANCE, COL-LAB-O-RA-TIVE NET-WORKS, DE-VEL-
+OP-MENT 
+ []
+
+
+Overfull \hbox (2.51215pt too wide) in paragraph at lines 2772--2772
+\OT1/cmr/m/n/10 SUC-CESS, EMPIRICAL-TEST, FIRM PER-FOR-MANCE, KNOWL-EDGE TRANS-
+ 
+ []
+
+
+Overfull \hbox (17.44263pt too wide) in paragraph at lines 2772--2772
+\OT1/cmr/m/n/10 FER, MAN-U-FAC-TUR-ING STRAT-EGY, MOD-ER-AT-ING ROLE, OR-GA-NI-
+ZA-TIONAL 
+ []
+
+[227
+
+]
+Overfull \hbox (46.54106pt too wide) in paragraph at lines 2788--2788
+| \OT1/cmr/m/n/10 HUMAN-RESOURCE MAN-AGE-MENT, IM-PACT, INTERNATIONAL-JOINT-VEN
+TURES, 
+ []
+
+
+Overfull \hbox (63.06886pt too wide) in paragraph at lines 2788--2788
+\OT1/cmr/m/n/10 MAN-U-FAC-TUR-ING PER-FOR-MANCE, MO-TI-VA-TION, MULTINATIONAL-C
+ORPORATIONS, 
+ []
+
+
+Overfull \hbox (1.95766pt too wide) in paragraph at lines 2788--2788
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL PER-FOR-MANCE, PER-SPEC-TIVE, PRO-DUC-TIV-IT
+Y, SYS- 
+ []
+
+[228
+
+]
+Overfull \hbox (0.98209pt too wide) in paragraph at lines 2799--2799
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DECADE AWARD, HU-MAN RE-SO
+URCE MAN-AGE- 
+ []
+
+
+Overfull \hbox (19.17996pt too wide) in paragraph at lines 2800--2800
+\OT1/cmr/m/n/10 MAN-AG-ING KNOWL-EDGE, MECH-A-NISMS, MULTINATIONAL-CORPORATIONS
+, 
+ []
+
+[229
+
+]
+Overfull \hbox (10.4277pt too wide) in paragraph at lines 2811--2811
+\OT1/cmr/m/n/10 EDGE TRANS-FER, MO-TI-VA-TION, MULTI-NA-TIONAL COR-PO-RA-TIONS 
+(MNCS) 
+ []
+
+[230
+
+]
+Overfull \hbox (1.95775pt too wide) in paragraph at lines 2824--2824
+| \OT1/cmr/m/n/10 BUSI-NESS, CA-PA-BIL-I-TIES, COL-LAB-O-RA-TION, FIRM, KNOWL-E
+DGE TRANS- 
+ []
+
+
+Overfull \hbox (14.73654pt too wide) in paragraph at lines 2824--2824
+\OT1/cmr/m/n/10 FER, OR-GA-NI-ZA-TIONS, PER-FOR-MANCE, RECON-CEP-TU-AL-IZA-TION
+, STRATE- 
+ []
+
+[231
+
+]
+Overfull \hbox (3.48328pt too wide) in paragraph at lines 2840--2840
+\OT1/cmr/m/n/10 TIONAL CHANGE, TECH-NOL-OGY []AB[]-[]SORPTIVE []CA[]-[]PACITY, 
+TECH-NOL-OGY 
+ []
+
+[232
+
+]
+Overfull \hbox (0.13943pt too wide) in paragraph at lines 2847--2847
+| \OT1/cmr/m/n/10 En-vi-ron-men-tal tur-bu-lence, []ab[]-[]sorptive []ca[]-[]pa
+city and ex-ter-nal knowl-edge search among 
+ []
+
+
+Overfull \hbox (7.16599pt too wide) in paragraph at lines 2853--2853
+| \OT1/cmr/m/n/10 BE-HAV-IOR, CLUS-TER, DE-TER-MI-NANTS, IN-FOR-MA-TION, IN-NO-
+VA-TION PER- 
+ []
+
+
+Overfull \hbox (51.96252pt too wide) in paragraph at lines 2854--2857
+[]\OT1/cmr/m/n/10 sorptive []ca[]-[]pacity (ACAP) on ex-ter-nal knowl-edge sear
+ch breadth. De-sign/methodology/approach 
+ []
+
+[233
+
+]
+Overfull \hbox (25.77385pt too wide) in paragraph at lines 2867--2867
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IT PROJECT MAN-AGE-MENT, K
+NOWL-EDGE WORKER 
+ []
+
+
+Overfull \hbox (4.3883pt too wide) in paragraph at lines 2868--2868
+| \OT1/cmr/m/n/10 DEVELOPMENT-PROJECTS, INFORMATION-SYSTEMS DE-VEL-OP-MENT, IN-
+ 
+ []
+
+
+Overfull \hbox (3.62439pt too wide) in paragraph at lines 2868--2868
+\OT1/cmr/m/n/10 PSY-CHO-LOG-I-CAL EM-POW-ER-MENT, RECON-CEP-TU-AL-IZA-TION, TEC
+H-NOL- 
+ []
+
+[234
+
+]
+Overfull \hbox (33.34668pt too wide) in paragraph at lines 2885--2885
+| \OT1/cmr/m/n/10 AS-SIM-I-LA-TION, EN-TER-PRISE SYS-TEMS, INFORMATION-TECHNOLO
+GY, KNOWL- 
+ []
+
+
+Overfull \hbox (7.3142pt too wide) in paragraph at lines 2886--2889
+\OT1/cmr/m/n/10 in the IS us-age. The pa-per aims to dis-cuss these is-sues. De
+-sign/methodology/approach 
+ []
+
+[235
+
+]
+Overfull \hbox (18.27711pt too wide) in paragraph at lines 2900--2900
+| \OT1/cmr/m/n/10 AL-LIANCES, FIRM, IM-PACT, IN-NO-VA-TION PER-FOR-MANCE, INTER
+NATIONAL- 
+ []
+
+
+Overfull \hbox (13.69269pt too wide) in paragraph at lines 2900--2900
+\OT1/cmr/m/n/10 JOINT-VENTURES, MNC KNOWL-EDGE TRANS-FER, OR-GA-NI-ZA-TION, REC
+ON- 
+ []
+
+[236
+
+]
+Overfull \hbox (11.33157pt too wide) in paragraph at lines 2911--2911
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CROSS-CULTURAL, EN-TREPREN
+EUR NET-WORKS, 
+ []
+
+
+Overfull \hbox (8.00052pt too wide) in paragraph at lines 2912--2912
+| \OT1/cmr/m/n/10 COL-LAB-O-RA-TION, ECONOMIC-DEVELOPMENT, EN-TREPRENEURS, IN-F
+OR- 
+ []
+
+
+Overfull \hbox (9.666pt too wide) in paragraph at lines 2912--2912
+\OT1/cmr/m/n/10 MA-TION, KNOWL-EDGE, MAN-U-FAC-TUR-ING FIRMS, PER-FOR-MANCE, R-
+AND- 
+ []
+
+[237
+
+]
+Overfull \hbox (2.09436pt too wide) in paragraph at lines 2923--2923
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BOUND-ARY MAN-AGE-MENT, CO
+M-MU-NITY MAN- 
+ []
+
+[238
+
+] [239
+
+]
+Overfull \hbox (14.2483pt too wide) in paragraph at lines 2947--2947
+| \OT1/cmr/m/n/10 IN-TER-NA-TIONAL COL-LAB-O-RA-TIVE FOR-MA-TIONS, KO-REA, PER-
+FOR-MANCE, 
+ []
+
+[240
+
+]
+Overfull \hbox (4.94379pt too wide) in paragraph at lines 2959--2959
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EX-PORT, IN-DONE-SIA, IN-T
+ER-NA-TION-AL-IZA-TION, 
+ []
+
+
+Overfull \hbox (5.08263pt too wide) in paragraph at lines 2960--2960
+| \OT1/cmr/m/n/10 AN-TECEDENTS, CLUS-TER, IM-PACT, IN-NO-VA-TION PER-FOR-MANCE,
+ IN-TER- 
+ []
+
+[241
+
+] [242
+
+]
+Overfull \hbox (9.38496pt too wide) in paragraph at lines 2978--2978
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY IN BUYER-SUPPLIER RE-LA-TIO
+N-SHIPS:EMPIRICAL 
+ []
+
+
+Overfull \hbox (8.83163pt too wide) in paragraph at lines 2983--2983
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BUYER-SUPPLIER RE-LA-TION-
+SHIPS, EF-FI-CIENCY, 
+ []
+
+
+Overfull \hbox (25.77602pt too wide) in paragraph at lines 2984--2984
+| \OT1/cmr/m/n/10 CHAIN MAN-AGE-MENT, COM-PET-I-TIVE AD-VAN-TAGE, DYNAMIC-CAPAB
+ILITIES, 
+ []
+
+
+Overfull \hbox (4.8744pt too wide) in paragraph at lines 2984--2984
+\OT1/cmr/m/n/10 INFORMATION-TECHNOLOGY, KNOWL-EDGE DE-VEL-OP-MENT, LEARNING- 
+ []
+
+[243
+
+]
+Overfull \hbox (6.3315pt too wide) in paragraph at lines 2996--2996
+\OT1/cmr/m/n/10 LA-TIONS, MAR-KET-ING STRAT-EGY, OR-GA-NI-ZA-TIONAL LEARN-ING, 
+STRUC- 
+ []
+
+
+Overfull \hbox (2.7204pt too wide) in paragraph at lines 2997--2997
+\OT1/cmr/m/n/10 TIU-NIT OR-GA-NI-ZA-TION, OR-GA-NI-ZA-TIONAL PRAC-TICES, PER-FO
+R-MANCE, 
+ []
+
+[244
+
+]
+Overfull \hbox (27.0955pt too wide) in paragraph at lines 3009--3009
+| \OT1/cmr/m/n/10 2 FACES, COM-PET-I-TIVE AD-VAN-TAGE, DE-VEL-OP-MENT SUB-SI-DI
+ES, EMPIRICAL- 
+ []
+
+
+Overfull \hbox (6.67883pt too wide) in paragraph at lines 3009--3009
+\OT1/cmr/m/n/10 ANALYSIS, JOINT VEN-TURES, KNOWL-EDGE TRANS-FER, MULTINATIONAL-
+ 
+ []
+
+[245
+
+] [246
+
+]
+Overfull \hbox (12.51442pt too wide) in paragraph at lines 3033--3033
+| \OT1/cmr/m/n/10 COL-LAB-O-RA-TION, EVO-LU-TION, EX-PLO-RATION, FIRMS, KNOWL-E
+DGE, NET- 
+ []
+
+[247
+
+]
+Overfull \hbox (3.90327pt too wide) in paragraph at lines 3045--3045
+| \OT1/cmr/m/n/10 ADOP-TION, DIF-FU-SION, INFORMATION-TECHNOLOGY, IN-NO-VA-TION
+, ISO- 
+ []
+
+
+Overfull \hbox (8.48549pt too wide) in paragraph at lines 3045--3045
+\OT1/cmr/m/n/10 MOR-PHISM, OR-GA-NI-ZA-TIONAL AS-SIM-I-LA-TION, PER-FOR-MANCE, 
+PER-SPEC- 
+ []
+
+[248
+
+]
+Overfull \hbox (1.12102pt too wide) in paragraph at lines 3056--3056
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CASE STUDY ANAL-Y-SIS, COG
+-NI-TIVE DIS-TANCE, 
+ []
+
+
+Overfull \hbox (2.30374pt too wide) in paragraph at lines 3056--3056
+\OT1/cmr/m/n/10 CROSS-INDUSTRY IN-NO-VA-TION, EX-PLORATORY IN-NO-VA-TION, NET-W
+ORK 
+ []
+
+
+Overfull \hbox (7.37328pt too wide) in paragraph at lines 3057--3057
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONAL AM-BIDEX-TER-ITY, RE-LA-TIONAL EM-BED-DED-NE
+SS, SEC- 
+ []
+
+
+Overfull \hbox (16.74821pt too wide) in paragraph at lines 3057--3057
+\OT1/cmr/m/n/10 TORAL PAT-TERNS, STRATE-GIC AL-LIANCES, TECHNOLOGICAL-INNOVATIO
+N  
+ []
+
+[249
+
+]
+Overfull \hbox (4.87325pt too wide) in paragraph at lines 3068--3068
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DECISION-MAKING, PROD-UCT 
+PORT-FO-LIO, SYS- 
+ []
+
+[250
+
+] [251
+
+] [252
+
+]
+Overfull \hbox (0.56659pt too wide) in paragraph at lines 3104--3104
+\OT1/cmr/m/n/10 ZA-TIONAL PER-FOR-MANCE, TECH-NO-LOG-I-CAL DIS-TINC-TIVE COM-PE
+-TEN- 
+ []
+
+[253
+
+]
+Overfull \hbox (1.88602pt too wide) in paragraph at lines 3116--3116
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, PO-TEN-TIAL []AB[]-[]SORPT
+IVE []CA[]-[]PACITY, PROJECT 
+ []
+
+
+Overfull \hbox (8.0677pt too wide) in paragraph at lines 3117--3117
+\OT1/cmr/m/n/10 MOD-ELS, MUL-TI-DI-MEN-SIONAL CON-STRUCTS, OR-GA-NI-ZA-TIONAL P
+ER-FOR- 
+ []
+
+[254
+
+]
+Overfull \hbox (29.24829pt too wide) in paragraph at lines 3128--3128
+\OT1/cmr/m/n/10 FOR-MANCE, PROJECT-ORIENTED COM-PA-NIES (POCS), PROJECT-TO-PROJ
+ECT  
+ []
+
+
+Overfull \hbox (8.55266pt too wide) in paragraph at lines 3129--3129
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, FIRM PER-FOR-MANCE, HRM PRAC-TICES, IN-NO-V
+A-TION PER- 
+ []
+
+[255
+
+]
+Overfull \hbox (12.09662pt too wide) in paragraph at lines 3141--3141
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, MAN-AGE-MENT, MEDIUM-SIZED EN-TER-PRISES, N
+ET-WORKS, 
+ []
+
+
+Overfull \hbox (3.90323pt too wide) in paragraph at lines 3141--3141
+\OT1/cmr/m/n/10 OR-GA-NI-ZA-TIONS, PER-FOR-MANCE, PUBLIC-POLICY, RECON-CEP-TU-A
+L-IZA- 
+ []
+
+[256
+
+]
+Overfull \hbox (1.81654pt too wide) in paragraph at lines 3152--3152
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EN-TREPRENEURIAL FIRMS, LE
+ARN-ING AD-VAN- 
+ []
+
+
+Overfull \hbox (41.81662pt too wide) in paragraph at lines 3153--3153
+| \OT1/cmr/m/n/10 COM-MON METHOD VARI-ANCE, COM-PET-I-TIVE AD-VAN-TAGE, EN-TREP
+RENEURIAL 
+ []
+
+
+Overfull \hbox (3.83374pt too wide) in paragraph at lines 3153--3153
+\OT1/cmr/m/n/10 VEN-TURES, GROWTH, HET-ERO-GENE-ITY, IN-NO-VA-TION, NET-WORKS, 
+PER- 
+ []
+
+[257
+
+] [258
+
+] [259
+
+]
+Overfull \hbox (4.59663pt too wide) in paragraph at lines 3189--3189
+| \OT1/cmr/m/n/10 AL-LIANCES, BIO-SCIENCE MEGA-CEN-TRES, CA-PA-BIL-I-TIES, CO-E
+VO-LU-TION, 
+ []
+
+
+Overfull \hbox (12.7921pt too wide) in paragraph at lines 3189--3189
+\OT1/cmr/m/n/10 EMPIRICAL-ANALYSIS, IN-DUS-TRY, IN-NO-VA-TION, KNOWL-EDGE, RESE
+ARCH- 
+ []
+
+[260
+
+]
+Overfull \hbox (5.70662pt too wide) in paragraph at lines 3201--3201
+\OT1/cmr/m/n/10 CESS MODEL, PROD-UCT DE-VEL-OP-MENT, TECHNOLOGICAL-INNOVATION, 
+
+ []
+
+[261
+
+]
+Overfull \hbox (6.46931pt too wide) in paragraph at lines 3212--3212
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EN-TREPRENEURIAL ORI-EN-TA
+-TION, SUR-VEY RE- 
+ []
+
+
+Overfull \hbox (2.37213pt too wide) in paragraph at lines 3213--3213
+| \OT1/cmr/m/n/10 BUSI-NESS PER-FOR-MANCE, COM-PET-I-TIVE AD-VAN-TAGE, COR-PO-R
+ATE EN- 
+ []
+
+
+Overfull \hbox (20.35939pt too wide) in paragraph at lines 3213--3213
+\OT1/cmr/m/n/10 TREPRENEUR-SHIP, DY-NAMIC CA-PA-BIL-I-TIES, FIRM PER-FOR-MANCE,
+ KNOWL- 
+ []
+
+
+Overfull \hbox (20.7066pt too wide) in paragraph at lines 3213--3213
+\OT1/cmr/m/n/10 EDGE TRANS-FER, MAR-KET ORI-EN-TA-TION, RESEARCH-AND-DEVELOPMEN
+T, 
+ []
+
+[262
+
+]
+Overfull \hbox (39.94283pt too wide) in paragraph at lines 3225--3225
+| \OT1/cmr/m/n/10 BUSI-NESS PER-FOR-MANCE, COM-BI-NA-TIVE CA-PA-BIL-I-TIES, EMP
+IRICAL-ANALYSIS, 
+ []
+
+
+Overfull \hbox (11.05382pt too wide) in paragraph at lines 3225--3225
+\OT1/cmr/m/n/10 FAM-ILY FIRMS, FIRM PER-FOR-MANCE, INTERNATIONAL-JOINT-VENTURES
+, 
+ []
+
+[263
+
+]
+Overfull \hbox (23.9705pt too wide) in paragraph at lines 3237--3237
+\OT1/cmr/m/n/10 NO-VA-TION, KNOWL-EDGE TRANS-FER, NET-WORK, OR-GA-NI-ZA-TIONAL 
+KNOWL- 
+ []
+
+[264
+
+]
+Overfull \hbox (24.03998pt too wide) in paragraph at lines 3249--3249
+| \OT1/cmr/m/n/10 BEN-E-FIT, COM-PE-TI-TION, DI-RECT FOREIGN-INVESTMENT, DO-MES
+-TIC FIRMS, 
+ []
+
+[265
+
+]
+Overfull \hbox (5.3582pt too wide) in paragraph at lines 3261--3261
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DY-NAMIC CA-PA-BIL-I-TIES, HIGH-T
+ECH FIRMS, 
+ []
+
+
+Overfull \hbox (12.02602pt too wide) in paragraph at lines 3261--3261
+\OT1/cmr/m/n/10 IN-NO-VA-TION PER-FOR-MANCE, PROD-UCT DE-VEL-OP-MENT, RESEARCH-
+AND- 
+ []
+
+
+Overfull \hbox (3.34547pt too wide) in paragraph at lines 3261--3261
+\OT1/cmr/m/n/10 DEVELOPMENT, RESOURCE-BASED VIEW, STRATE-GIC FLEX-I-BIL-ITY, TA
+I- 
+ []
+
+[266
+
+]
+Overfull \hbox (64.45663pt too wide) in paragraph at lines 3273--3273
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, COR-PO-RATE EN-TREPRENEUR-SHIP, E
+N-TREPRENEURIAL 
+ []
+
+
+Overfull \hbox (0.42993pt too wide) in paragraph at lines 3273--3273
+\OT1/cmr/m/n/10 ORI-EN-TA-TION, FI-NAN-CIAL PER-FOR-MANCE, KNOWLEDGE-ACQUISITIO
+N, 
+ []
+
+
+Overfull \hbox (2.09552pt too wide) in paragraph at lines 3273--3273
+\OT1/cmr/m/n/10 AN-TECEDENTS, TECHNOLOGY-BASED FIRMS, VEN-TURE PER-FOR-MANCE  
+ []
+
+[267
+
+]
+Overfull \hbox (15.91269pt too wide) in paragraph at lines 3284--3284
+| \OT1/cmr/m/n/10 GREEN []AB[]-[]SORPTIVE []CA[]-[]PACITY, GREEN EX-PLOITA-TION
+ LEARN-ING, GREEN 
+ []
+
+
+Overfull \hbox (0.70767pt too wide) in paragraph at lines 3285--3285
+| \OT1/cmr/m/n/10 AN-TECEDENTS, CA-PA-BIL-I-TIES, COM-PET-I-TIVE AD-VAN-TAGES, 
+EQUA-TION 
+ []
+
+[268
+
+]
+Overfull \hbox (0.1532pt too wide) in paragraph at lines 3297--3297
+\OT1/cmr/m/n/10 TION, IN-TE-GRA-TION, MAN-AGE-MENT, OR-GA-NI-ZA-TIONS, PER-FOR-
+MANCE, 
+ []
+
+[269
+
+] [270
+
+]
+Overfull \hbox (10.56659pt too wide) in paragraph at lines 3320--3320
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, B2B MAR-KET-ING, COR-PO-RA
+TE EN-TREPRENEUR- 
+ []
+
+[271
+
+]
+Overfull \hbox (2.78873pt too wide) in paragraph at lines 3333--3333
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, IN-TEROR-GA-NI-ZA-TIONAL R
+E-LA-TION-SHIP, IT RE- 
+ []
+
+
+Overfull \hbox (54.38725pt too wide) in paragraph at lines 3333--3333
+\OT1/cmr/m/n/10 SOURCES, IT-ENABLED CA-PA-BIL-ITY, KNOWL-EDGE MAN-AGE-MENT, REL
+ATIONSHIP- 
+ []
+
+
+Overfull \hbox (1.54102pt too wide) in paragraph at lines 3334--3334
+\OT1/cmr/m/n/10 FOR-MANCE, FUTURE-RESEARCH, INFORMATION-TECHNOLOGY IN-FRAS- 
+ []
+
+
+Overfull \hbox (8.06766pt too wide) in paragraph at lines 3334--3334
+\OT1/cmr/m/n/10 TRUC-TURE, OR-GA-NI-ZA-TIONAL MEM-ORY, PROD-UCT DE-VEL-OP-MENT,
+ SUP- 
+ []
+
+
+Overfull \hbox (7.5099pt too wide) in paragraph at lines 3334--3334
+\OT1/cmr/m/n/10 PLY CHAIN RE-LA-TION-SHIPS, SUS-TAINED COM-PET-I-TIVE AD-VAN-TA
+GE, SYS- 
+ []
+
+[272
+
+]
+Overfull \hbox (9.03777pt too wide) in paragraph at lines 3345--3345
+\OT1/cmr/m/n/10 NA-TIONAL IN-VEST-MENT, IN-TER-NA-TIONAL LINK-AGES TO DE-VEL-OP
+-MENT, 
+ []
+
+[273
+
+]
+Overfull \hbox (22.30382pt too wide) in paragraph at lines 3358--3358
+\OT1/cmr/m/n/10 PA-BIL-ITY, EN-TREPRENEURIAL ORI-EN-TA-TION, IN-NO-VA-TION PER-
+FOR-MANCE, 
+ []
+
+
+Overfull \hbox (10.5688pt too wide) in paragraph at lines 3358--3358
+\OT1/cmr/m/n/10 TION, OR-GA-NI-ZA-TIONAL AN-TECEDENTS, RESEARCH-AND-DEVELOPMENT
+  
+ []
+
+[274
+
+]
+Overfull \hbox (4.80492pt too wide) in paragraph at lines 3370--3370
+\OT1/cmr/m/n/10 MENT, OPEN IN-NO-VA-TION, OP-ER-A-TIONS, ORI-EN-TA-TION, PER-FO
+R-MANCE, 
+ []
+
+[275
+
+]
+Overfull \hbox (16.88716pt too wide) in paragraph at lines 3382--3382
+| \OT1/cmr/m/n/10 CANA-DIAN BIOTECH-NOL-OGY, COM-PET-I-TIVE AD-VAN-TAGE, EN-VI-
+RON-MENT, 
+ []
+
+
+Overfull \hbox (0.61165pt too wide) in paragraph at lines 3383--3383
+| []\OT1/cmr/m/n/10 Ab[]-[]sorptive []ca[]-[]pacity is fre-quently an out-come 
+of a firm's cu-mu-la-tively path-dependent 
+ []
+
+[276
+
+]
+Overfull \hbox (12.78883pt too wide) in paragraph at lines 3394--3394
+| \OT1/cmr/m/n/10 COM-BI-NA-TIVE CA-PA-BIL-I-TIES, EX-TER-NAL KNOWL-EDGE, IN-NO
+-VA-TION PER- 
+ []
+
+
+Overfull \hbox (16.19154pt too wide) in paragraph at lines 3394--3394
+\OT1/cmr/m/n/10 TUR-ING FIRMS, RAD-I-CAL IN-NO-VA-TION, RE-GIONAL NET-WORKS, RE
+SEARCH- 
+ []
+
+[277
+
+]
+Overfull \hbox (1.68102pt too wide) in paragraph at lines 3406--3406
+| \OT1/cmr/m/n/10 AN-TECEDENTS, CA-PA-BIL-ITY, DE-TER-MI-NANTS, IN-DUS-TRY, KNO
+WL-EDGE 
+ []
+
+
+Overfull \hbox (6.67992pt too wide) in paragraph at lines 3406--3406
+\OT1/cmr/m/n/10 MAN-AGE-MENT, MAR-KET ORI-EN-TA-TION, OP-POR-TU-NITY, PER-FOR-M
+ANCE, 
+ []
+
+[278
+
+]
+Overfull \hbox (10.35938pt too wide) in paragraph at lines 3422--3422
+\OT1/cmr/m/n/10 MANCE, MAN-AG-ING KNOWL-EDGE, NET-WORK, OR-GA-NI-ZA-TIONAL KNOW
+L- 
+ []
+
+
+Overfull \hbox (10.43098pt too wide) in paragraph at lines 3422--3422
+\OT1/cmr/m/n/10 EDGE, RECON-CEP-TU-AL-IZA-TION, RESEARCH-AND-DEVELOPMENT, STRAT
+- 
+ []
+
+[279
+
+]
+Overfull \hbox (3.76436pt too wide) in paragraph at lines 3437--3437
+| \OT1/cmr/m/n/10 COL-LAB-O-RA-TIONS, CO-OR-DI-NA-TION, COR-PO-RA-TIONS, DE-SIG
+N, DY-NAMIC 
+ []
+
+[280
+
+]
+Overfull \hbox (17.93098pt too wide) in paragraph at lines 3455--3455
+\OT1/cmr/m/n/10 CA-TION, EMPIRICAL-EXAMINATION, FIRM, IN-TE-GRA-TION, IN-TER-NA
+-TIONAL 
+ []
+
+[281
+
+] [282
+
+]
+Overfull \hbox (4.52715pt too wide) in paragraph at lines 3487--3487
+| \OT1/cmr/m/n/10 AN-TECEDENTS, CA-PA-BIL-I-TIES, DY-NAMIC THE-ORY, EVO-LU-TION
+, KNOWL- 
+ []
+
+[283
+
+]
+Overfull \hbox (10.01428pt too wide) in paragraph at lines 3502--3502
+| \OT1/cmr/m/n/10 AC-QUI-SI-TION, DIRECT-INVESTMENT, FIRMS, GROWTH, IN-NO-VA-TI
+ON, PER- 
+ []
+
+[284
+
+] [285
+
+]
+Overfull \hbox (4.24825pt too wide) in paragraph at lines 3526--3526
+| \OT1/cmr/m/n/10 BIOTECH-NOL-OGY, COM-PET-I-TIVE AD-VAN-TAGE, DY-NAMIC CA-PA-B
+IL-I-TIES, 
+ []
+
+
+Overfull \hbox (8.48434pt too wide) in paragraph at lines 3526--3526
+\OT1/cmr/m/n/10 MI-CRO-FOUN-DA-TIONS, MOD-ER-AT-ING ROLE, OPEN IN-NO-VA-TION, P
+ER-SPEC- 
+ []
+
+[286
+
+]
+Overfull \hbox (10.77716pt too wide) in paragraph at lines 3538--3538
+| \OT1/cmr/m/n/10 EF-FI-CIENCY, FOR-EIGN DIRECT-INVESTMENT, LINK-AGES, PER-FOR-
+MANCE, 
+ []
+
+[287
+
+] [288
+
+]
+Overfull \hbox (1.53992pt too wide) in paragraph at lines 3562--3562
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DE-VEL-OP-MENT CO-OP-ER-A-TION, E
+X-TER-NAL 
+ []
+
+
+Overfull \hbox (5.77718pt too wide) in paragraph at lines 3562--3562
+\OT1/cmr/m/n/10 TECH-NOL-OGY, FIRMS, HONG-KONG, KNOWL-EDGE TRANS-FER, MEA-SURE-
+ 
+ []
+
+[289
+
+]
+Overfull \hbox (11.47266pt too wide) in paragraph at lines 3574--3574
+\OT1/cmr/m/n/10 IM-PACT, IN-NO-VA-TION, KNOWL-EDGE, LINK-AGES, PER-FOR-MANCE, S
+TRATE- 
+ []
+
+[290
+
+]
+Overfull \hbox (16.39774pt too wide) in paragraph at lines 3585--3585
+| \OT1/cmr/m/n/10 CEN-TRAL AND EAST-ERN EU-ROPE, ECO-NOMIC GROWTH, EU-RO-PEAN U
+NION 
+ []
+
+[291
+
+]
+Overfull \hbox (7.16379pt too wide) in paragraph at lines 3597--3597
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CHINA, DU-RA-TION OF IN-TE
+R-NA-TION-AL-IZA-TION, 
+ []
+
+
+Overfull \hbox (14.10829pt too wide) in paragraph at lines 3597--3597
+\OT1/cmr/m/n/10 EAR-LI-NESS OF IN-TER-NA-TION-AL-IZA-TION, IN-TER-NA-TIONAL PER
+-FOR-MANCE  
+ []
+
+[292
+
+] [293
+
+] [294
+
+]
+Overfull \hbox (8.13823pt too wide) in paragraph at lines 3634--3634
+\OT1/cmr/m/n/10 TION, KNOW-HOW, MOD-ER-AT-ING ROLE, OR-GA-NI-ZA-TION, PER-FOR-M
+ANCE, 
+ []
+
+[295
+
+]
+Overfull \hbox (1.055pt too wide) in paragraph at lines 3646--3646
+| \OT1/cmr/m/n/10 DE-VEL-OP-MENT SPILLOVERS, DIF-FU-SION, EU-ROPE, IN-NO-VA-TIO
+N, LA-BOR 
+ []
+
+[296
+
+]
+Overfull \hbox (10.91602pt too wide) in paragraph at lines 3657--3657
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BREADTH, DEPTH, IN-NO-VA-T
+ION, PER-FOR-MANCE  
+ []
+
+
+Overfull \hbox (9.1093pt too wide) in paragraph at lines 3658--3658
+\OT1/cmr/m/n/10 NI-ZA-TIONAL AN-TECEDENTS, PROD-UCT IN-TRO-DUC-TION, RESEARCH-A
+ND- 
+ []
+
+[297
+
+]
+Overfull \hbox (9.59549pt too wide) in paragraph at lines 3669--3669
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, COM-PLEX KNOWL-EDGE, SCIEN
+CE-TO-INDUSTRY 
+ []
+
+
+Overfull \hbox (1.53984pt too wide) in paragraph at lines 3670--3670
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, EMPIRICAL-TEST, EN-TREPRENEURIAL 
+ORI- 
+ []
+
+
+Overfull \hbox (6.40097pt too wide) in paragraph at lines 3670--3670
+\OT1/cmr/m/n/10 EN-TA-TION, FIRM PER-FOR-MANCE, OR-GA-NI-ZA-TIONAL RE-SEARCH, P
+ATENT 
+ []
+
+
+Overfull \hbox (6.33269pt too wide) in paragraph at lines 3670--3670
+\OT1/cmr/m/n/10 SCOPE, PROD-UCT IN-NO-VA-TION, RESEARCH-AND-DEVELOPMENT, SO-CIA
+L 
+ []
+
+[298
+
+]
+Overfull \hbox (1.401pt too wide) in paragraph at lines 3682--3682
+\OT1/cmr/m/n/10 TION, OR-GA-NI-ZA-TIONAL AN-TECEDENTS, PROD-UCT DE-VEL-OP-MENT,
+ RE- 
+ []
+
+
+Overfull \hbox (2.30598pt too wide) in paragraph at lines 3683--3683
+| \OT1/cmr/m/n/10 This study fo-cuses on how the in-ter-play be-tween a firm's 
+[]ab[]-[]sorptive []ca[]-[]pacity (ACAP), 
+ []
+
+[299
+
+]
+Overfull \hbox (4.03987pt too wide) in paragraph at lines 3693--3693
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, HIGH-TECH IN-DUS-TRIES, IN
+-NO-VA-TION, KNOWL- 
+ []
+
+[300
+
+]
+Overfull \hbox (5.21927pt too wide) in paragraph at lines 3705--3705
+\OT1/cmr/m/n/10 NITY IN-NO-VA-TION SUR-VEY, FIRM BE-HAVIOUR, IN-NO-VA-TION, MI-
+CRO-DATA  
+ []
+
+[301
+
+]
+Overfull \hbox (18.06659pt too wide) in paragraph at lines 3718--3718
+| \OT1/cmr/m/n/10 CHARIS-MATIC LEAD-ER-SHIP, DY-NAMIC CA-PA-BIL-I-TIES, KNOWL-E
+DGE TRANS- 
+ []
+
+
+Overfull \hbox (7.99823pt too wide) in paragraph at lines 3718--3718
+\OT1/cmr/m/n/10 ER-SHIP, TRANS-FOR-MA-TIONAL LEAD-ER-SHIP, WORK-RELATED AT-TI-T
+UDES  
+ []
+
+[302
+
+]
+Overfull \hbox (57.93001pt too wide) in paragraph at lines 3730--3730
+\OT1/cmr/m/n/10 PER-FOR-MANCE, PRE-PARED FIRM, RESEARCH-AND-DEVELOPMENT, TECHNO
+LOGY- 
+ []
+
+[303
+
+]
+Overfull \hbox (18.06772pt too wide) in paragraph at lines 3742--3742
+\OT1/cmr/m/n/10 DIS-TRICTS, KNOWL-EDGE AC-QUI-SI-TION, PROD-UCT DE-VEL-OP-MENT,
+ RECON- 
+ []
+
+[304
+
+]
+Overfull \hbox (10.50046pt too wide) in paragraph at lines 3754--3754
+| \OT1/cmr/m/n/10 CA-PA-BIL-I-TIES, COL-LAB-O-RA-TION, IN-DUS-TRY, LARGE-SIZE, 
+MAN-AGE-MENT, 
+ []
+
+
+Overfull \hbox (20.8466pt too wide) in paragraph at lines 3754--3754
+\OT1/cmr/m/n/10 MAN-U-FAC-TUR-ING FIRMS, PER-FOR-MANCE, RESEARCH-AND-DEVELOPMEN
+T, 
+ []
+
+[305
+
+] [306
+
+]
+Overfull \hbox (9.31876pt too wide) in paragraph at lines 3780--3780
+\OT1/cmr/m/n/10 SIGN, INFORMATION-PROCESSING PER-SPEC-TIVE, IN-NO-VA-TION, IN-T
+E-GRA- 
+ []
+
+
+Overfull \hbox (28.55379pt too wide) in paragraph at lines 3780--3780
+\OT1/cmr/m/n/10 TION, MAN-U-FAC-TUR-ING STRATE-GIES, PROD-UCT DE-VEL-OP-MENT, R
+ESEARCH- 
+ []
+
+[307
+
+]
+Overfull \hbox (11.67764pt too wide) in paragraph at lines 3792--3792
+| \OT1/cmr/m/n/10 AD-VANCED MAN-U-FAC-TUR-ING TECH-NOL-OGY, COM-PET-I-TIVE AD-V
+AN-TAGE, 
+ []
+
+
+Overfull \hbox (63.415pt too wide) in paragraph at lines 3792--3792
+\OT1/cmr/m/n/10 DY-NAMIC CA-PA-BIL-I-TIES, FIRM PER-FOR-MANCE, FUTURE-RESEARCH,
+ INFORMATION- 
+ []
+
+[308
+
+]
+Overfull \hbox (25.01102pt too wide) in paragraph at lines 3803--3803
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, DATA IN-TE-GRA-TION, EN-VI
+-RON-MEN-TAL DY-NAMISM, 
+ []
+
+
+Overfull \hbox (2.09772pt too wide) in paragraph at lines 3804--3804
+\OT1/cmr/m/n/10 FIRMS, PER-FOR-MANCE, RECON-CEP-TU-AL-IZA-TION, TECH-NOL-OGY, W
+EAK 
+ []
+
+[309
+
+]
+Overfull \hbox (9.3177pt too wide) in paragraph at lines 3815--3815
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, KNOWL-EDGE MAN-AGE-MENT, O
+R-GA-NI-ZA-TIONAL 
+ []
+
+
+Overfull \hbox (2.3038pt too wide) in paragraph at lines 3816--3816
+| \OT1/cmr/m/n/10 BEHAVIORAL-THEORY, COM-BI-NA-TIVE CA-PA-BIL-I-TIES, COM-PET-I
+-TIVE AD- 
+ []
+
+[310
+
+]
+Overfull \hbox (24.31891pt too wide) in paragraph at lines 3828--3828
+\OT1/cmr/m/n/10 FOR-MANCE, KNOWL-EDGE TRANS-FER, MAXIMUM-LIKELIHOOD-ESTIMATION,
+ 
+ []
+
+[311
+
+] [312
+
+]
+Overfull \hbox (20.28882pt too wide) in paragraph at lines 3851--3851
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, KNOWL-EDGE MAN-AGE-MENT, M
+AN-AGE-RIAL PRAC- 
+ []
+
+
+Overfull \hbox (8.83156pt too wide) in paragraph at lines 3852--3852
+| \OT1/cmr/m/n/10 COM-PET-I-TIVE AD-VAN-TAGE, DECISION-MAKING, DY-NAMIC CA-PA-B
+IL-I-TIES, 
+ []
+
+[313
+
+]
+Overfull \hbox (4.3849pt too wide) in paragraph at lines 3863--3863
+| \OT1/cmr/m/n/10 FIRM PER-FOR-MANCE, GREEN []AB[]-[]SORPTIVE []CA[]-[]PACITY, 
+GREEN DY-NAMIC 
+ []
+
+
+Overfull \hbox (5.0838pt too wide) in paragraph at lines 3864--3864
+| \OT1/cmr/m/n/10 AL-LIANCES, CA-PA-BIL-I-TIES, DE-TER-MI-NANTS, EN-TREPRENEUR-
+SHIP, MAN- 
+ []
+
+
+Overfull \hbox (7.30383pt too wide) in paragraph at lines 3864--3864
+\OT1/cmr/m/n/10 AGE-MENT, MISS-ING LINK, PER-SPEC-TIVE, PROD-UCT DE-VEL-OP-MENT
+, SUP- 
+ []
+
+[314
+
+]
+Overfull \hbox (21.88708pt too wide) in paragraph at lines 3876--3876
+| \OT1/cmr/m/n/10 AGRI-CUL-TURAL KNOWL-EDGE IN-FRAS-TRUC-TURE, CON-STRUCT, EMPI
+RICAL- 
+ []
+
+[315
+
+]
+Overfull \hbox (19.59436pt too wide) in paragraph at lines 3888--3888
+| \OT1/cmr/m/n/10 BLUE OCEAN STRAT-EGY, CLUS-TERS, CRE-ATIVE DE-STRUC-TION, ECO
+NOMIC- 
+ []
+
+
+Overfull \hbox (3.41718pt too wide) in paragraph at lines 3888--3888
+\OT1/cmr/m/n/10 NETWORKS, PER-FOR-MANCE, RESEARCH-AND-DEVELOPMENT, SYS-TEMS  
+ []
+
+[316
+
+]
+Overfull \hbox (5.4555pt too wide) in paragraph at lines 3899--3899
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, BRICS, F14, F21, FOR-EIGN 
+DI-RECT IN-VEST-MENT, 
+ []
+
+[317
+
+]
+Overfull \hbox (19.10933pt too wide) in paragraph at lines 3911--3911
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, EMER-GENCE, LEARN-ING PRO-
+CESS, MICRO-MACRO 
+ []
+
+
+Overfull \hbox (6.19159pt too wide) in paragraph at lines 3912--3912
+\OT1/cmr/m/n/10 KNOWL-EDGE TRANS-FER, NET-WORK PO-SI-TION, OR-GA-NI-ZA-TIONAL P
+RAC- 
+ []
+
+
+Overfull \hbox (3.90797pt too wide) in paragraph at lines 3913--3913
+\OT1/cmr/m/n/10 organization in-ter-ac-tions. Scant knowl-edge is avail-able ab
+out the mech-a-nisms through 
+ []
+
+[318
+
+]
+Overfull \hbox (4.73332pt too wide) in paragraph at lines 3924--3924
+| \OT1/cmr/m/n/10 1ST EV-I-DENCE, CAP-I-TAL GOODS, DE-VEL-OP-MENT SPILLOVERS, E
+X-PORTS, 
+ []
+
+
+Overfull \hbox (2.58267pt too wide) in paragraph at lines 3924--3924
+\OT1/cmr/m/n/10 IN-DUS-TRY, INTERNATIONAL-TRADE, LEVEL EV-I-DENCE, PER-FOR-MANC
+E, 
+ []
+
+[319
+
+]
+Overfull \hbox (7.23434pt too wide) in paragraph at lines 3936--3936
+\OT1/cmr/m/n/10 TAL PER-FOR-MANCE, FIRM PER-FOR-MANCE, MAN-AGE-MENT, PANEL-DATA
+, 
+ []
+
+
+Overfull \hbox (7.44383pt too wide) in paragraph at lines 3936--3936
+\OT1/cmr/m/n/10 PER-SPEC-TIVE, RESEARCH-AND-DEVELOPMENT, RESOURCE-BASED VIEW  
+ []
+
+[320
+
+]
+Overfull \hbox (46.68001pt too wide) in paragraph at lines 3948--3948
+\OT1/cmr/m/n/10 O-RA-TION, KNOWL-EDGE, NET-WORK DY-NAM-ICS, RESEARCH-AND-DEVELO
+PMENT, 
+ []
+
+
+Overfull \hbox (2.02827pt too wide) in paragraph at lines 3949--3949
+| \OT1/cmr/m/n/10 Ex-tant lit-er-a-ture on firm-university col-lab-o-ra-tion ha
+s em-pha-sized two dif-fer-ent strate- 
+ []
+
+[321
+
+]
+Overfull \hbox (15.7066pt too wide) in paragraph at lines 3959--3959
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, ATTENTION-BASED VIEW, BOUN
+DARY-SPANNING, 
+ []
+
+[322
+
+]
+Overfull \hbox (47.30608pt too wide) in paragraph at lines 3972--3972
+\OT1/cmr/m/n/10 EDGE, PER-FOR-MANCE, RECON-CEP-TU-AL-IZA-TION, TECHNOLOGICAL-IN
+NOVATION  
+ []
+
+[323
+
+]
+Overfull \hbox (3.34764pt too wide) in paragraph at lines 3984--3984
+| \OT1/cmr/m/n/10 CON-STRUCT, EN-TREPRENEUR-SHIP, FU-TURE, IN-DUS-TRY, MAN-AGE-
+MENT, 
+ []
+
+[324
+
+]
+Overfull \hbox (17.64993pt too wide) in paragraph at lines 3995--3995
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, AGENT-BASED MOD-EL-ING, CO
+G-NI-TIVE DIS-TANCE, 
+ []
+
+
+Overfull \hbox (9.59776pt too wide) in paragraph at lines 3996--3996
+| \OT1/cmr/m/n/10 COL-LAB-O-RA-TION, EVO-LU-TION, FIRM, IN-DUS-TRIES, KNOWL-EDG
+E, MODEL, 
+ []
+
+[325
+
+]
+Overfull \hbox (4.04094pt too wide) in paragraph at lines 4008--4008
+| \OT1/cmr/m/n/10 COUN-TRY, FOR-EIGN DIRECT-INVESTMENT, GROWTH, LINK-AGES, MULT
+I- 
+ []
+
+[326
+
+]
+Overfull \hbox (14.31664pt too wide) in paragraph at lines 4019--4019
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, KNOWL-EDGE AS-SETS, LISTED
+ COM-PA-NIES, TECH- 
+ []
+
+
+Overfull \hbox (1.88826pt too wide) in paragraph at lines 4020--4020
+| \OT1/cmr/m/n/10 AN-TECEDENTS, DE-TER-MI-NANTS, EX-PLOITA-TION, FIRM PER-FOR-M
+ANCE, 
+ []
+
+
+Overfull \hbox (4.24931pt too wide) in paragraph at lines 4020--4020
+\OT1/cmr/m/n/10 HIGH-TECH, IN-DUS-TRY, MAN-AGE-MENT, OPEN IN-NO-VA-TION, RE-SOU
+RCES, 
+ []
+
+[327
+
+]
+Overfull \hbox (14.3166pt too wide) in paragraph at lines 4031--4031
+| []\OT1/cmr/m/n/10 AB[]-[]SORPTIVE []CA[]-[]PACITY, CASE STUDY METHOD, FSQCA, 
+OR-GA-NI-ZA-TIONAL 
+ []
+
+[328
+
+]
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 4036.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 4036.
+(D:\Dropbox\Omat\DSc\Wos\bibx_data_out\bibx_data_out_data.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 4036.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 4036.
+
+
+Package rerunfilecheck Warning: File `bibx_data_out_data.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `bibx_data_out_data.out':
+(rerunfilecheck)             Before: <no file>
+(rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 4036.
+ ) 
+Here is how much of TeX's memory you used:
+ 5322 strings out of 493673
+ 76633 string characters out of 3143960
+ 170398 words of memory out of 3000000
+ 8347 multiletter control sequences out of 15000+200000
+ 3953 words of font info for 15 fonts, out of 3000000 for 9000
+ 1025 hyphenation exceptions out of 8191
+ 29i,5n,21p,3629b,318s stack positions out of 5000i,500n,10000p,200000b,50000s
+<C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb>
+Output written on D:/Dropbox/Omat/DSc/Wos/bibx_data_out/bibx_data_out_data.pdf 
+(328 pages, 841200 bytes).
+PDF statistics:
+ 1457 PDF objects out of 1728 (max. 8388607)
+ 329 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

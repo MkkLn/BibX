@@ -1,0 +1,20 @@
+# Name of the database to be analyzed
+database_url=jdbc:mysql://localhost:3306/bibxdb?useSSL=false
+# Database username, define empty for interactive mode
+database_username=bibxusr
+# Database password, define empty for interactive mode
+database_password=bibxpwd
+# Name for output directory (for same dir define .)
+output_directory=bibx_data_out
+# Append date to output directory name (in format yymmdd_hhmmss)? Valid values: true/false
+output_directory_append_date=false
+# Prefix for output file names
+output_filename_prefix=bibx_data_out
+# Append date to output file names (in format yymmdd_hhmmss)? Valid values: true/false
+output_filename_append_date=true
+# Command for typesetting tex to pdf
+command_tex2pdf=pdflatex
+# Ouput file type? Valid values: text/word/tex/all (tex is also typeset to pdf)
+output_file_type=all
+# Highlight some patterns in tex's pdf? Separate by ,
+highlight_pdf=absorpti,capacit
