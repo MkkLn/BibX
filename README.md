@@ -39,7 +39,7 @@ Please take a look at the `example`-folder for what to expect. In the root of th
 
 ### Instructions
 
-##### Short version:
+##### Short version
 
 Add "&lt;your_path&gt;/BibX/lib/poi-3.14/*" to [classpath] (https://en.wikipedia.org/wiki/Classpath_%28Java%29) environment variable.
 
@@ -61,7 +61,7 @@ Then run BibX:
     java bibx_data_out
     java bibx_report
 
-##### Longer notes:
+##### Longer notes
 
 _Classpath_
 
@@ -107,3 +107,11 @@ The network_edgesize_min -variables affect the visibility of ties and nodes in t
 ### Finally
 
 Performing bibliometric analyses and utilizing Web of Science data is generally tricky and most likely an iterative process. Hopefully BibX can aid you in this work and help you find interesting and meaningful research results!
+
+##### Citation
+
+You can use the following citation and DOI to refer to BibX:
+
+Laine, M.O.J. (2016). BibX: A tool for bibliometric data exploration. DOI: 10.5281/zenodo.51389. Available at: http://github.com/MkkLn/BibX.
+
+[![DOI](https://zenodo.org/badge/22028/MkkLn/BibX.svg)](https://zenodo.org/badge/latestdoi/22028/MkkLn/BibX)
